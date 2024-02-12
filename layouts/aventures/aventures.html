@@ -1,7 +1,8 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <ul>
+    {{ range .Pages }}
+      <li>{{ .Date | time.Format "_2/01/2006" }} - <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
 {{ end }}

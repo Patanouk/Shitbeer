@@ -16,6 +16,14 @@ main {
     margin-left: 7px;
 }
 
+main a {
+    color: rgb(255 168 206 );
+}
+
+main a:visited {
+    color: rgb(193 183 169 );
+}
+
 figure {
     margin-left: 0px;
 }
