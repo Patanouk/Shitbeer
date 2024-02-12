@@ -8,13 +8,17 @@ body {
     max-width: 960px;
   }
   
-  main {
+main {
     margin-bottom: 2rem;
     max-width: 1000px;
     text-align: left;
     margin-right: 7px;
     margin-left: 7px;
-  }
+}
+
+figure {
+    margin-left: 0px;
+}
 
  .navbar {
      display: flex;

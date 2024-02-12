@@ -6,3 +6,7 @@ type = 'bieres'
 +++
 
 C'est l'index des bieres
+
+{{< figure src="Margaret-Chiu-black-beer-house.jpg" width=700px >}}
+
+{{< figure src="Margaret-Chiu-black-beer-island.jpg" width=700px >}}

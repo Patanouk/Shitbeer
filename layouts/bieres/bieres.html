@@ -1,15 +1,3 @@
 {{ define "main" }}
   {{ .Content }}
-
-  {{ with .Resources.GetMatch "Margaret-Chiu-black-beer-house.jpg" }}  
-  {{ with .Fit "947x700" }}
-    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-  {{ end }}
-  {{ end }}
-
-  {{ with .Resources.GetMatch "Margaret-Chiu-black-beer-island.jpg" }}
-  {{ with .Fit "947x700" }}
-    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-  {{ end }}
-  {{ end }}
 {{ end }}
