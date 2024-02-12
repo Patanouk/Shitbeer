@@ -5,7 +5,7 @@ layout = 'bieres'
 type = 'bieres'
 +++
 
-C'est l'index des bieres
+### La biere c'est bon
 
 {{< figure src="Margaret-Chiu-black-beer-house.jpg" width=700px >}}
 
