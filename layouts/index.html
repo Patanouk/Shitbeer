@@ -7,12 +7,10 @@
 
 <div class="aventures-list">
     {{ range (site.GetPage "aventures").Pages }}
-    <div>
+    <div class="article-block">
         <span class="article-link"><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2></span>
         {{ with .Resources.Get .Params.beer }}
-            <span class="article-beer-picture">
-                <img src="{{ .RelPermalink }}" height="50px" alt="">
-            </span>
+            <img class="article-beer-picture" src="{{ .RelPermalink }}" height="50px" alt="">
         {{ end }}
     </div>
     {{ end }}

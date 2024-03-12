@@ -29,12 +29,19 @@ main a:visited {
   margin-top: 15px;
 }
 
+.article-block {
+  text-align:center;
+}
+
 .article-link {
-  float: left;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
 }
 
 .article-beer-picture {
-  margin-left: 20px;
+  margin-left: 10px;
+  vertical-align: middle;
 }
 
 figure {
