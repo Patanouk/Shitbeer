@@ -1,5 +1,11 @@
 {{ define "main" }}
   <div class="homepage-content">
     {{ .Content }}
+
+    {{ range (site.GetPage "aventures").Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <span>{{ .Summary }}</span>
+    {{ end }}
+
   </div>
 {{ end }}
