@@ -7,8 +7,13 @@
 
   <div class="aventures-list">
     {{ range (site.GetPage "aventures").Pages }}
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <span>{{ .Summary }}</span>
+      <div class="article-link-summary">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <span>{{ .Summary }}</span>
+      </div>
+      <div class="article-beer-picture">
+
+      </div>
     {{ end }}
   </div>
 {{ end }}
