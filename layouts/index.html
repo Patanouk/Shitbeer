@@ -8,15 +8,12 @@
 <div class="aventures-list">
     {{ range (site.GetPage "aventures").Pages }}
     <div>
-        <span class="article-link-summary">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <span>{{ .Summary }}</span>
-        </span>
-        <span class="article-beer-picture">
-            {{ with .Resources.Get .Params.beer }}
-            <img src="{{ .RelPermalink }}" height="50px" alt="">
-            {{ end }}
-        </span>
+        <span class="article-link"><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2></span>
+        {{ with .Resources.Get .Params.beer }}
+            <span class="article-beer-picture">
+                <img src="{{ .RelPermalink }}" height="50px" alt="">
+            </span>
+        {{ end }}
     </div>
     {{ end }}
 </div>
