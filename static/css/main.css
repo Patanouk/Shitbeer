@@ -26,14 +26,15 @@ main a:visited {
 
 .front-page-shit-beer {
   text-align: center;
+  margin-top: 15px;
 }
 
 .article-link-summary {
-
+  float: left;
 }
 
 .article-beer-picture {
-
+  margin-left: 20px;
 }
 
 figure {

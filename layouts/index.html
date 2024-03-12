@@ -1,19 +1,23 @@
 {{ define "main" }}
 
-  <div class="front-page-shit-beer">
-    <img class="" src = "/img/shit_beer_logo.svg" alt="Shit Beer logo"/>
+<div class="front-page-shit-beer">
+    <img class="" src="/img/shit_beer_logo.svg" alt="Shit Beer logo"/>
     {{ .Content }}
-  </div>
+</div>
 
-  <div class="aventures-list">
+<div class="aventures-list">
     {{ range (site.GetPage "aventures").Pages }}
-      <div class="article-link-summary">
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <span>{{ .Summary }}</span>
-      </div>
-      <div class="article-beer-picture">
-
-      </div>
+    <div>
+        <span class="article-link-summary">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <span>{{ .Summary }}</span>
+        </span>
+        <span class="article-beer-picture">
+            {{ with .Resources.Get .Params.beer }}
+            <img src="{{ .RelPermalink }}" height="50px" alt="">
+            {{ end }}
+        </span>
+    </div>
     {{ end }}
-  </div>
+</div>
 {{ end }}
