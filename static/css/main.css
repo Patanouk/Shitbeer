@@ -21,7 +21,12 @@ main a {
 }
 
 main a:visited {
-    color: rgb(193 183 169 );
+  color: rgb(193 183 169 );
+}
+
+main h2 {
+  margin-block-end: auto;
+  margin-block-start: auto;
 }
 
 .front-page-shit-beer {

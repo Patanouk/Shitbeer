@@ -12,7 +12,11 @@
         {{ with .Resources.Get .Params.beer }}
             <img class="article-beer-picture" src="{{ .RelPermalink }}" height="50px" alt="">
         {{ end }}
+        <div class="article-summary">
+        {{ .Params.summary }}
+        </div>
     </div>
+
     {{ end }}
 </div>
 {{ end }}
