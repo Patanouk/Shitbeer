@@ -1,11 +1,14 @@
 {{ define "main" }}
-  <div class="homepage-content">
-    {{ .Content }}
 
+  <div class="front-page-shit-beer">
+    <img class="" src = "/img/shit_beer_logo.svg" alt="Shit Beer logo"/>
+    {{ .Content }}
+  </div>
+
+  <div class="aventures-list">
     {{ range (site.GetPage "aventures").Pages }}
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <span>{{ .Summary }}</span>
     {{ end }}
-
   </div>
 {{ end }}
