@@ -14,14 +14,14 @@ main {
     text-align: left;
     margin-right: 7px;
     margin-left: 7px;
+    font-family: "Inconsolata";
 }
 
 main a {
-    color: rgb(255 168 206 );
-}
-
-main a:visited {
-  color: rgb(193 183 169 );
+    color: #dd5555;
+    font-family: "EnglishTowne";
+    text-decoration: unset;
+    font-size: 3em;
 }
 
 main h2 {
@@ -29,9 +29,13 @@ main h2 {
   margin-block-start: auto;
 }
 
+.shit_beer_logo {
+    height: 70vh;
+    margin-top: 10vh;
+}
+
 .front-page-shit-beer {
   text-align: center;
-  margin-top: 15px;
 }
 
 .article-block {
@@ -53,7 +57,19 @@ figure {
     margin-left: 0px;
 }
 
- footer {
-    margin-right: 7px;
-    margin-left: 7px;
- }
+footer {
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+@font-face {
+    font-family: "Inconsolata";
+    src:
+      url("/font/Inconsolata.ttf")
+}
+
+@font-face {
+    font-family: "EnglishTowne";
+    src:
+      url("/font/EnglishTowne.ttf")
+}
