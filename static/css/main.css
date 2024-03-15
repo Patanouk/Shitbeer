@@ -30,6 +30,10 @@ main a {
   text-align: center;
 }
 
+.front_page_article_title {
+  margin-left: 1vh;
+}
+
 .article_block {
   text-align:center;
   margin-bottom: 5vh;
