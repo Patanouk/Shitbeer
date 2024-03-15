@@ -14,5 +14,11 @@
 </div>
 <div class="article_page_content">
   {{ .Content }}
+  <div class="article_page_beer_grade">
+    {{ with .Resources.Get .Params.beer }}
+    <img class="article_beer_picture" src="{{ .RelPermalink }}" height="50px" alt="">
+    {{ end }}
+  </div>
 </div>
+
 {{ end }}

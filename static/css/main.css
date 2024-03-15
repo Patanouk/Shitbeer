@@ -35,6 +35,12 @@ main a {
 .article_page_content {
     margin-top: 5vh;
     margin-left: 5vh;
+    width: 60%;
+    margin: auto;
+}
+
+.article_page_beer_grade {
+    text-align: left
 }
 
 .article_block {
