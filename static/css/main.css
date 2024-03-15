@@ -18,10 +18,7 @@ main {
 }
 
 main a {
-    color: #dd5555;
-    font-family: "EnglishTowne";
-    text-decoration: unset;
-    font-size: 3em;
+  text-decoration: unset;
 }
 
 .shit_beer_logo {
@@ -38,10 +35,13 @@ main a {
   margin-bottom: 5vh;
 }
 
-.article-link {
+.article-title {
   text-align: center;
   vertical-align: middle;
   display: inline-block;
+  font-family: "EnglishTowne";
+  color: #dd5555;
+  font-size: 3em;
 }
 
 .article-beer-picture {
