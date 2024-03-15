@@ -21,21 +21,26 @@ main a {
   text-decoration: unset;
 }
 
-.shit_beer_logo_front_page {
+.front_page_shit_beer_logo {
     height: 70vh;
     margin-top: 10vh;
 }
 
-.front-page-shit-beer {
+.article_page_shit_beer_logo {
+    height: 20vh;
+    vertical-align: middle;
+}
+
+.front_page_shit_beer {
   text-align: center;
 }
 
-.article-block {
+.article_block {
   text-align:center;
   margin-bottom: 5vh;
 }
 
-.article-title {
+.article_title {
   text-align: center;
   vertical-align: middle;
   font-family: "EnglishTowne";
@@ -43,18 +48,13 @@ main a {
   font-size: 3em;
 }
 
-.article-beer-picture {
+.article_beer_picture {
   margin-left: 10px;
   vertical-align: middle;
 }
 
 figure {
     margin-left: 0px;
-}
-
-.shit_beer_logo_front_page {
-    height: 70vh;
-    margin-top: 10vh;
 }
 
 @font-face {
