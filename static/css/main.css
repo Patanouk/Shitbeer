@@ -28,6 +28,11 @@ main a {
   text-align: center;
 }
 
+.front_page_article_beer_picture {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
 .article_page_title {
     width: 100%;
 }
@@ -40,7 +45,8 @@ main a {
 }
 
 .article_page_beer_grade {
-    text-align: left
+    text-align: left;
+    display: flex;
 }
 
 .article_block {
@@ -54,11 +60,6 @@ main a {
   font-family: "EnglishTowne";
   color: #dd5555;
   font-size: 3em;
-}
-
-.article_beer_picture {
-  margin-left: 10px;
-  vertical-align: middle;
 }
 
 .article_page_shit_beer_logo {

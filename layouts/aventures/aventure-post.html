@@ -15,8 +15,9 @@
 <div class="article_page_content">
   {{ .Content }}
   <div class="article_page_beer_grade">
+    <img src="/img/slash.svg" height="50px" alt="">
     {{ with .Resources.Get .Params.beer }}
-    <img class="article_beer_picture" src="{{ .RelPermalink }}" height="50px" alt="">
+    <img src="{{ .RelPermalink }}" height="50px" alt="">
     {{ end }}
   </div>
 </div>
