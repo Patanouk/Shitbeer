@@ -50,10 +50,6 @@ main a {
   vertical-align: middle;
 }
 
-.article_page_shit_beer_logo_container {
-    width: 100px;
-}
-
 .article_page_shit_beer_logo {
     height: 20vh;
     vertical-align: middle;
@@ -62,6 +58,7 @@ main a {
 .article_page_header {
     margin-top: 3vh;
     display: flex;
+    align-items: center;
 }
 
 @font-face {
