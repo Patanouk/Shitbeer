@@ -48,6 +48,7 @@ main a {
     text-align: left;
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 .article_block {
