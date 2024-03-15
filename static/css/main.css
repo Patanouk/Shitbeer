@@ -5,8 +5,16 @@ body {
     line-height: 1.5;  
     margin: 0 auto;  
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* Pas de scrollbar pour IE, Edge et Firefox */
+  -ms-overflow-style: none;  /* IE et Edge */
+  scrollbar-width: none;  /* Firefox */
 }
-  
+
+/* Pas de scrollbar sur Chrome, Safari et Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
 main {
     margin-bottom: 2rem;
     text-align: left;
@@ -15,9 +23,14 @@ main {
     font-family: "Inconsolata";
 }
 
+/* Removes underline on links */
 main a {
   text-decoration: unset;
 }
+
+/*
+  Front Page CSS
+*/
 
 .front_page_shit_beer_logo {
     height: 70vh;
@@ -28,10 +41,19 @@ main a {
   text-align: center;
 }
 
+.front_page_article_block {
+  text-align:center;
+  margin-bottom: 5vh;
+}
+
 .front_page_article_beer_picture {
   margin-left: 10px;
   vertical-align: middle;
 }
+
+/*
+  Article Page CSS
+*/
 
 .article_page_title {
     width: 100%;
@@ -51,19 +73,6 @@ main a {
     justify-content: flex-end;
 }
 
-.article_block {
-  text-align:center;
-  margin-bottom: 5vh;
-}
-
-.article_title {
-  text-align: center;
-  vertical-align: middle;
-  font-family: "EnglishTowne";
-  color: #dd5555;
-  font-size: 3em;
-}
-
 .article_page_shit_beer_logo {
     height: 20vh;
     vertical-align: middle;
@@ -73,6 +82,18 @@ main a {
     margin-top: 3vh;
     display: flex;
     align-items: center;
+}
+
+/*
+  Shared CSS
+*/
+
+.article_title {
+  text-align: center;
+  vertical-align: middle;
+  font-family: "EnglishTowne";
+  color: #dd5555;
+  font-size: 3em;
 }
 
 @font-face {
