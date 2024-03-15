@@ -28,8 +28,8 @@ main a {
   text-align: center;
 }
 
-.front_page_article_title {
-  margin-left: 1vh;
+.article_page_article_title {
+  display: inline-block;
 }
 
 .article_block {
@@ -57,6 +57,7 @@ main a {
 
 .article_page_header {
     margin-top: 3vh;
+    display: inline-block;
 }
 
 @font-face {
