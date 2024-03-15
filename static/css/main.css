@@ -28,8 +28,13 @@ main a {
   text-align: center;
 }
 
-.article_page_article_title {
+.article_page_title {
     width: 100%;
+}
+
+.article_page_content {
+    margin-top: 5vh;
+    margin-left: 5vh;
 }
 
 .article_block {
