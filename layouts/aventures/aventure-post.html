@@ -2,17 +2,17 @@
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format "_2/01/2006" }}
 
-<div>
-  <div class="article_page_header">
+<div class="article_page_header">
+  <div class="article_page_shit_beer_logo_container">
     <a href="{{ .Site.BaseURL }}">
       <img class="article_page_shit_beer_logo" src="/img/shit_beer_logo.svg" alt="Shit Beer logo">
     </a>
   </div>
-  <div class="article_page_article_title">
-    <span class="article_title">{{ .Title }}</span>
+  <div class="article_page_article_title article_title">
+    {{ .Title }}
   </div>
-  <div>
-    {{ .Content }}
-  </div>
+</div>
+<div>
+  {{ .Content }}
 </div>
 {{ end }}
