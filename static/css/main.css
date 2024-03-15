@@ -21,7 +21,7 @@ main a {
   text-decoration: unset;
 }
 
-.shit_beer_logo {
+.shit_beer_logo_front_page {
     height: 70vh;
     margin-top: 10vh;
 }
@@ -52,9 +52,9 @@ figure {
     margin-left: 0px;
 }
 
-footer {
-  margin-right: 7px;
-  margin-left: 7px;
+.shit_beer_logo_front_page {
+    height: 70vh;
+    margin-top: 10vh;
 }
 
 @font-face {

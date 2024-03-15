@@ -3,7 +3,10 @@
   {{ $dateHuman := .Date | time.Format "_2/01/2006" }}
 
   <div>
-    <div class="article-title">{{ .Title }}</div>
+    <div class="article-title">
+      <img class="shit_beer_logo_article_page" src="/img/shit_beer_logo.svg" alt="Shit Beer logo">
+      <span>{{ .Title }}</span>
+    </div>
     {{ .Content }}
   </div>
 {{ end }}
