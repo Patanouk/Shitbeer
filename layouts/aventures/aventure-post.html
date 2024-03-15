@@ -4,7 +4,9 @@
 
   <div>
     <div class="article_page_header">
-      <img class="article_page_shit_beer_logo" src="/img/shit_beer_logo.svg" alt="Shit Beer logo">
+      <a href="{{ .Site.BaseURL }}">
+        <img class="article_page_shit_beer_logo" src="/img/shit_beer_logo.svg" alt="Shit Beer logo">
+      </a>
       <span class="article_title front_page_article_title">{{ .Title }}</span>
     </div>
     {{ .Content }}
