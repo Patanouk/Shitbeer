@@ -5,12 +5,10 @@ body {
     line-height: 1.5;  
     margin: 0 auto;  
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    max-width: 960px;
 }
   
 main {
     margin-bottom: 2rem;
-    max-width: 1000px;
     text-align: left;
     margin-right: 7px;
     margin-left: 7px;
