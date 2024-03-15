@@ -44,9 +44,10 @@ main a {
     margin: auto;
 }
 
-.article_page_beer_grade {
+.article_page_beer_grade_container {
     text-align: left;
     display: flex;
+    align-items: center;
 }
 
 .article_block {
