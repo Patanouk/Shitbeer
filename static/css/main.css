@@ -26,15 +26,6 @@ main a {
     margin-top: 10vh;
 }
 
-.article_page_shit_beer_logo {
-    height: 20vh;
-    vertical-align: middle;
-}
-
-.article_page_header {
-    margin-top: 3vh;
-}
-
 .front_page_shit_beer {
   text-align: center;
 }
@@ -55,6 +46,15 @@ main a {
 .article_beer_picture {
   margin-left: 10px;
   vertical-align: middle;
+}
+
+.article_page_shit_beer_logo {
+    height: 20vh;
+    vertical-align: middle;
+}
+
+.article_page_header {
+    margin-top: 3vh;
 }
 
 @font-face {
