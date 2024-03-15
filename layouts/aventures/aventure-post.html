@@ -2,6 +2,8 @@
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format "_2/01/2006" }}
 
-  <span class="article-title">{{ .Title }}</span>
-  {{ .Content }}
+  <div>
+    <div class="article-title">{{ .Title }}</div>
+    {{ .Content }}
+  </div>
 {{ end }}
