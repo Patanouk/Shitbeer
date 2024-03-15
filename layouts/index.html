@@ -10,7 +10,7 @@
         <div class="article_block">
             <a class="article_title" href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ with .Resources.Get .Params.beer }}
-                <img class="article-beer-picture" src="{{ .RelPermalink }}" height="50px" alt="">
+                <img class="article_beer_picture" src="{{ .RelPermalink }}" height="50px" alt="">
             {{ end }}
             <div class="article-summary">
             {{ .Params.summary }}

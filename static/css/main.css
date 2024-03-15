@@ -31,6 +31,10 @@ main a {
     vertical-align: middle;
 }
 
+.article_page_header {
+    margin-top: 3vh;
+}
+
 .front_page_shit_beer {
   text-align: center;
 }
