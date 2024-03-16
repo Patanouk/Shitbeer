@@ -33,9 +33,7 @@ Des peintures de propagande comme si on était chez les marxistes.
 
 Une piscine creusée à même la roche sédimentaire, à 40 centimètres de la mer, sans pour autant la toucher. Parce que quand on est riche, on peut se payer l'océan sans le sel et sans l’odeur de pisse de poisson.
 
-Photo de la maison
-
-Légende: Une maison qu’on dirait un [...].
+{{< figure src="maison_bouillon_cube.jpg" width=400 title="Un cube qu’on dirait la maison des soviets de Kaliningrad" >}}
 
 ## Margaret
 
@@ -46,8 +44,8 @@ Mariage 1
 Mariage 2
 
 Sa passion pour le Yoga dépassait de peu sa passion pour les affaires.
-Photo du Yoga
-Legende: Des fois pour sauver son mariage, il faut faire preuve de flexibilité.
+
+{{< figure src="yoga_flexible.jpg" width=400 title="Des fois pour sauver son mariage, il faut faire preuve de flexibilité" >}}
 
 ## Les procès
 
@@ -55,8 +53,7 @@ A la suite du décès de son père et de dépenses colossales dans le business d
 
 Le gouvernement, amer de cette […], a piqué la maison à Margaret Chiu. Ils doivent pas aimer les chiens.
 
-Document du procès
-Legende: La banqueroute est un sport individuel.
+{{< figure src="banqueroute.jpg" width=400 title="La banqueroute est un sport individuel" >}}
 
 ## Le jardin
 
@@ -66,7 +63,7 @@ La pelouse elle était comme à Jeanville, mais avec la mer et sans les voisins 
 Christopher Quiche dit “La piche” réinjecta 3 millions de dollars canadiens dans l’édification d’un jardin bourré de statues. Promontoire érigé sur la mer dans le seul but de pratiquer le yoga à deux dos  
 Argent gagné du bout des doigts dans une vague histoire de machines à sous, de peer-to-peer et de voix sur IP.
 
-Trônait au milieu du jardin, le palanquin de la baise. C'est comme la maison, juste en plus petit.  
+Trônait au milieu du jardin, le palanquin de la baise. C'est aussi un bouillon cube, mais plus version réduite  
 Ingénierié en inox inoxydable et en bois qui vient des arbres, la boite à baise possède des rideaux capables de couper les occupants du soleil moite de la baie et des jardinier qui gazonnent aux alentours.
 
 Photo de la hutte
