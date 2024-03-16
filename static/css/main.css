@@ -1,10 +1,10 @@
 body {  
-    background-color: #EBE8E1;
-    color: #0E131F;
-    font-size: 125%;  
-    line-height: 1.5;  
-    margin: 0 auto;  
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #EBE8E1;
+  color: #0E131F;
+  font-size: 125%;
+  line-height: 1.5;
+  margin: 0 auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   /* Pas de scrollbar pour IE, Edge et Firefox */
   -ms-overflow-style: none;  /* IE et Edge */
   scrollbar-width: none;  /* Firefox */
@@ -16,16 +16,16 @@ body::-webkit-scrollbar {
 }
 
 main {
-    margin-bottom: 2rem;
-    text-align: left;
-    margin-right: 7px;
-    margin-left: 7px;
-    font-family: "Inconsolata";
+  margin-bottom: 2rem;
+  text-align: left;
+  margin-right: 7px;
+  margin-left: 7px;
+  font-family: "Inconsolata";
 }
 
 /* Removes underline on links */
 main a {
-  text-decoration: unset;
+    text-decoration: unset;
 }
 
 /*
@@ -33,8 +33,8 @@ main a {
 */
 
 .front_page_shit_beer_logo {
-    height: 70vh;
-    margin-top: 10vh;
+  height: 70vh;
+  margin-top: 10vh;
 }
 
 .front_page_shit_beer {
@@ -56,21 +56,21 @@ main a {
 */
 
 .article_page_title {
-    width: 60%;
+  width: 60%;
 }
 
 .article_page_content {
-    margin-top: 5vh;
-    margin-left: 5vh;
-    width: 60%;
-    margin: auto;
+  margin-top: 5vh;
+  margin-left: 5vh;
+  width: 60%;
+  margin: auto;
 }
 
 .article_page_beer_grade_container {
-    text-align: left;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .article_page_shit_beer_logo_container {
@@ -78,14 +78,14 @@ main a {
 }
 
 .article_page_shit_beer_logo {
-    height: 20vh;
-    vertical-align: middle;
+  height: 20vh;
+  vertical-align: middle;
 }
 
 .article_page_header {
-    margin-top: 3vh;
-    display: flex;
-    align-items: center;
+  margin-top: 3vh;
+  display: flex;
+  align-items: center;
 }
 
 /*
@@ -101,13 +101,13 @@ main a {
 }
 
 @font-face {
-    font-family: "Inconsolata";
-    src:
-      url("/font/Inconsolata.ttf")
+  font-family: "Inconsolata";
+  src:
+    url("/font/Inconsolata.ttf")
 }
 
 @font-face {
-    font-family: "EnglishTowne";
-    src:
-      url("/font/EnglishTowne.ttf")
+  font-family: "EnglishTowne";
+  src:
+    url("/font/EnglishTowne.ttf")
 }
