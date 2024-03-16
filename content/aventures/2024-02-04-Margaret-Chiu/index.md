@@ -8,13 +8,12 @@ type = 'aventures'
 layout = 'aventure-post'
 +++
 
-Yoga sexe et banqueroute
 Un // entre la découverte de la maison et l’histoire de Margaret Chiu.
 C’est quoi l’axe? Pourquoi on suit son aventure?
 
 —
 
-Casino en ligne, villa vue sur la mer, 15 clébards, position de la pince assise, 2 maris et pas moins de procès, préparez- vous à découvrir la vie palpitante de Margaret “banqueroute à toute heure” Chiu.
+Casino en ligne, villa vue sur la mer, 15 clébards, position de la pince assise, 2 maris et pas moins de procès, préparez-vous à découvrir la vie palpitante de Margaret “banqueroute à toute heure” Chiu.
 
 Une vague histoire de machines à sous et de parents bourrés de pognon.
 
@@ -35,7 +34,8 @@ Des peintures de propagande comme si on était chez les marxistes.
 Une piscine creusée à même la roche sédimentaire, à 40 centimètres de la mer, sans pour autant la toucher. Parce que quand on est riche, on peut se payer l'océan sans le sel et sans l’odeur de pisse de poisson.
 
 Photo de la maison
-Legende: Une maison qu’on dirait un [...].
+
+Légende: Une maison qu’on dirait un [...].
 
 ## Margaret
 
@@ -51,7 +51,7 @@ Legende: Des fois pour sauver son mariage, il faut faire preuve de flexibilité.
 
 ## Les procès
 
-A la suite du décès de son père et de dépenses colossales dans le business de la faillite Margaret Chiu fut propulsée vers le dépôt de bilan saveur [...].
+A la suite du décès de son père et de dépenses colossales dans le business de la faillite, Margaret Chiu fut propulsée vers le dépôt de bilan saveur [...].
 
 Le gouvernement, amer de cette […], a piqué la maison à Margaret Chiu. Ils doivent pas aimer les chiens.
 
@@ -60,12 +60,14 @@ Legende: La banqueroute est un sport individuel.
 
 ## Le jardin
 
-En quittant [...] la propriété
+En quittant la propriété, j'ai senti l'odeur du jardin de mon enfance  
+La pelouse elle était comme à Jeanville, mais avec la mer et sans les voisins qui s'engueulent
 
-Christopher Quiche dit “La piche” réinjecta 3 millions de dollars canadiens dans l’édification d’un jardin bourré de statues. Promontoire érigé sur la mer dans le seul but de [...]
+Christopher Quiche dit “La piche” réinjecta 3 millions de dollars canadiens dans l’édification d’un jardin bourré de statues. Promontoire érigé sur la mer dans le seul but de pratiquer le yoga à deux dos  
 Argent gagné du bout des doigts dans une vague histoire de machines à sous, de peer-to-peer et de voix sur IP.
 
-Trônait au milieu du jardin, le palanquin de la baise. Ingénierié en inox inoxydable et en bois qui vient des arbres, [...] avec des rideaux capables de couper les occupants du soleil moite de la baie et des jardinier qui gazonnent aux alentours.
+Trônait au milieu du jardin, le palanquin de la baise. C'est comme la maison, juste en plus petit.  
+Ingénierié en inox inoxydable et en bois qui vient des arbres, la boite à baise possède des rideaux capables de couper les occupants du soleil moite de la baie et des jardinier qui gazonnent aux alentours.
 
 Photo de la hutte
 Legende: Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise.
