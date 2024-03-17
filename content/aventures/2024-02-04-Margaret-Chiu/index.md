@@ -68,7 +68,7 @@ Ingénierié en inox inoxydable et en bois qui vient des arbres, la boite à bai
 
 {{< figure src="la_boite_a_baise.jpg" width=400 title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
 
-## Le tag
+## Les
 Description de où on a mis le tag, la qualité du mur et de la peinture etc.
 
 Gaspar Canette
