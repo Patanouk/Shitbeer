@@ -49,7 +49,7 @@ Sa passion pour le Yoga dépassait de peu sa passion pour les affaires.
 
 ## Les procès
 
-A la suite du décès de son père et de dépenses colossales dans le business de la faillite, Margaret Chiu fut propulsée vers le dépôt de bilan saveur [...].
+A la suite du décès de son père et de dépenses colossales dans le business de la faillite, Margaret Chiu fut propulsée vers le dépôt de bilan saveur durian.
 
 Le gouvernement, amer de cette […], a piqué la maison à Margaret Chiu. Ils doivent pas aimer les chiens.
 
@@ -66,8 +66,7 @@ Argent gagné du bout des doigts dans une vague histoire de machines à sous, de
 Trônait au milieu du jardin, le palanquin de la baise. C'est aussi un bouillon cube, mais plus version réduite  
 Ingénierié en inox inoxydable et en bois qui vient des arbres, la boite à baise possède des rideaux capables de couper les occupants du soleil moite de la baie et des jardinier qui gazonnent aux alentours.
 
-Photo de la hutte
-Legende: Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise.
+{{< figure src="la_boite_a_baise.jpg" width=400 title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
 
 ## Le tag
 Description de où on a mis le tag, la qualité du mur et de la peinture etc.
