@@ -28,7 +28,7 @@ Une piscine creusée à même la roche sédimentaire, à 40 centimètres de la m
 
 C’est une maison en forme de cube à cocktail perchée au bout de la montagne, face à l’océan, avec pour seuls voisins, des exilés fiscaux à compte à 10 chiffres.
 
-Pour y accéder, c’est pas compliqué, il faut traverser la montagne à pieds, tu traverses les villages dans un ordre croissant de richesse.  
+Pour y accéder, c’est pas compliqué, il faut traverser la montagne à pied, tu traverses les villages dans un ordre croissant de richesse.  
 D’abord les prolos, qui jouent en équipe aux dominos sur la place rudimentaire d’un village rudimentaire.  
 Puis chez les riches, qui vivent tous dans des maisons copiées les unes sur les autres, toutes orientées face aux flots lointains, ou face à une autre maison de riche, construite plus tard, pour leur chiper le panorama, en attendant de se le faire reprendre par une prochaine maison de fortuné, construite devant, n-ième édifice dans une farandole de villa qui finira fatalement dans la flotte.  
 Dans ce genre de maisons, t’y habites quand t’as les moyens de te payer un chauffeur, parce que y’a pas de bus.  
