@@ -55,15 +55,20 @@ main a {
   Article Page CSS
 */
 
-.article_page_title {
-  width: 60%;
-}
-
-.article_page_content {
-  margin-top: 5vh;
-  margin-left: 5vh;
+.article_page {
   width: 60%;
   margin: auto;
+  margin-top: 3vh;
+}
+
+.article_page_shit_beer_logo_container {
+  margin: auto;
+  text-align: center;
+}
+
+.article_page_shit_beer_logo {
+  height: 20vh;
+  vertical-align: middle;
 }
 
 .article_page_beer_grade_container {
@@ -74,21 +79,6 @@ main a {
 
 .article_page_signature {
   text-align: end;
-}
-
-.article_page_shit_beer_logo_container {
-  width: 20%;
-}
-
-.article_page_shit_beer_logo {
-  height: 20vh;
-  vertical-align: middle;
-}
-
-.article_page_header {
-  margin-top: 3vh;
-  display: flex;
-  align-items: center;
 }
 
 /*
