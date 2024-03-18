@@ -133,8 +133,12 @@ Trônait au milieu du jardin, le palanquin de la baise. Un autre cube de bouillo
 
 La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût. Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de partie de roulette russe, et une sensation persistante de rancune en bouche.
 
-## Les détails
+## Les détails de l'histoire
 
 D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est bonne
+
+1. [Le pdf du procès de Margaret la fraudasse avec sa maison](Margaret-Chiu-proces-maison.pdf)
+2. [Le pdf du procès de Margaret la punk à chien avec son jardin](Margaret-Chiu-proces-jardin.pdf)
+3. [La photo de la crapule](https://today.line.me/hk/v2/article/mvWkMZ)
 
 Gaspar Canette
