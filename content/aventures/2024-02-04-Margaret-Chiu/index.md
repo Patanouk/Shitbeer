@@ -35,10 +35,10 @@ Une piscine creusée à même la roche sédimentaire, à 40 centimètres de la m
 
 C’est une maison en forme de cube à cocktail perchée au bout de la montagne, face à l’océan, avec pour seuls voisins, des exilés fiscaux à compte à 10 chiffres.
 
-Pour y accéder, c’est pas compliqué, il faut traverser la montagne à pieds, tu traverses les villages dans un ordre croissant de richesse.
-D’abord les prolos, qui jouent en équipe aux dominos sur la place rudimentaire d’un village rudimentaire.
-Puis chez les riches, qui vivent tous dans des maisons copiées les unes sur les autres, toutes orientées face aux flots lointains, ou face à une autre maison de riche, construite plus tard, pour leur chiper le panorama, en attendant de se le faire reprendre par une prochaine maison de fortuné, construite devant, n-ième édifice dans une farandole de villa qui finira fatalement dans la flotte.
-Dans ce genre de maisons, t’y habites quand t’as les moyens de te payer un chauffeur, parce que y’a pas de bus.
+Pour y accéder, c’est pas compliqué, il faut traverser la montagne à pieds, tu traverses les villages dans un ordre croissant de richesse.  
+D’abord les prolos, qui jouent en équipe aux dominos sur la place rudimentaire d’un village rudimentaire.  
+Puis chez les riches, qui vivent tous dans des maisons copiées les unes sur les autres, toutes orientées face aux flots lointains, ou face à une autre maison de riche, construite plus tard, pour leur chiper le panorama, en attendant de se le faire reprendre par une prochaine maison de fortuné, construite devant, n-ième édifice dans une farandole de villa qui finira fatalement dans la flotte.  
+Dans ce genre de maisons, t’y habites quand t’as les moyens de te payer un chauffeur, parce que y’a pas de bus.  
 Y’a pas de bar-tabac, y’a pas de supérette, y’a pas de boulangerie ni de banc publiques. Y’a juste un terrain de tennis, entouré de grillages. Il faut une clef pour rentrer.
 
 Et enfin, en tout dernier, les encore plus riches, ceux qu’ils ont leur propres plages, leurs propres bateaux, des lustres Swarovski, des dizaines de chiens, et plus de mariages que mon oncle Dennis.
@@ -59,10 +59,10 @@ Avant de casser sa pipe d’une chute de tension comme ça arrive au fond des ch
 
 Elle adore les canidés et en possède plus que moi de dents, le yoga sous tous les angles, les fringues Dior, le faux marbre de mauvais goût sur les murs de la salle de bain, l’art un peu en fronçant les sourcils,
 
-### Mariage 1  
+#### Mariage 1  
 Tan Wai Kee, on a pas d’info. C’est comme les ingrédients de la Perlembourg de Lidl
 
-### Mariage 2  
+#### Mariage 2  
 Chris Piche, c’est le second mari. Il est canadien. Un mari exotique, c’est comme un voyage mais sans prendre l’avion.
 M. Piche est un futé, il est rentré à l'université a 13 ans pour faire de l’informatique
 
@@ -79,20 +79,26 @@ Sa passion pour le Yoga dépassait de peu sa passion pour les affaires.
 
 À la suite du décès de son père et de dépenses colossales dans le business de la faillite Margaret Chiu fut propulsée vers le dépôt de bilan saveur Pepsi Philippin sur fond de Burt Reynolds sur une peau d’ours.
 
-Le business c’est compliqué, et Margaret elle n’est pas douée avec la monnaie. Heureusement, Mr Chow Kam Wah (“Chow”) et Mr Law Kwan Yin (“Law”) aiment bien les maison bouillon-cube, et offrent un premier prêt hypothécaire de HK$70 million en 2017
-La faillite étant plus grosse que prévue, Margaret reprend un second prêt hypothécaire en 2017, puis en troisième avec Chow et Law, suivi par un quatrième et cinquième en Juin et Juillet 2018.
+Le business c’est compliqué, et Margaret elle n’est pas douée avec la monnaie.   
+Heureusement, Mr Chow Kam Wah (“Chow”) et Mr Law Kwan Yin (“Law”) aiment bien les maison bouillon-cube, et offrent un premier prêt hypothécaire de HK$70 million en 2017.  
+La faillite étant plus grosse que prévue, Margaret reprend un second prêt hypothécaire en 2017, puis en troisième avec Chow et Law, suivi par un quatrième et cinquième en Juin et Juillet 2018.  
 Normalement, quand ça ne marche pas, il faut s'arrêter. Après c’est comme les abalones. J’aime pas ça, mais à chaque fois je goûte pour faire plaisir. J’en suis à ma tentative numéro 6.
 
-Chow et Law, ils aimaient bien la maison, mais ils préféraient quand même l’argent. Margaret, elle avait une maison mais plus d’argent. L’oseille c’est plus pratique parce que ça rentre dans la poche. Mais ici on a pas le choix
+Chow et Law, ils aimaient bien la maison, mais ils préféraient quand même l’argent.   
+Margaret, elle avait une maison mais plus d’argent. L’oseille c’est plus pratique parce que ça rentre dans la poche.  
 
-Le premier mari, il a entendu l’appel de la banqueroute, et il est venu participer. Les gens riches, ca s’occupe comme ca peut. La moitié du cube (ça fait 50%) était à son nom apparemment. Après c’est des histoires de riche, c’est toujours plus compliqué. La maison elle appartenait à une société, et la société elle appartenait à Margaret. Mais le premier mari, il avait quand même un peu droit à la maison, mais que pour la vente, pas pour y habiter.
+Le premier mari, il a entendu l’appel de la banqueroute, et il est venu participer. Les gens riches, ca s’occupe comme ca peut.  
+La moitié du cube (ça fait 50%) était à son nom apparemment. Après c’est des histoires de riche, c’est toujours plus compliqué.  
+La maison elle appartenait à une société, et la société elle appartenait à Margaret. Mais le premier mari, il avait quand même un peu droit à la maison, mais que pour la vente, pas pour y habiter. Comme mon oncle avec sa Punto moche
 
-Maggy la crapule, elle avait signé tous les prêts de ses propres doigts. Chow et Law n'étaient pas au courant du mari. Ils étaient venus visiter pourtant, mais Margaret avait remplacé les deux maris par un homme de ménage, quatorze chiens et pas d’enfants.
+Maggy la crapule, elle avait signé tous les prêts de ses propres doigts. Chow et Law n'étaient pas au courant du mari.  
+Ils étaient venus visiter pourtant, mais Margaret avait remplacé les deux maris par un homme de ménage, quatorze chiens et pas d’enfants.
 
-Le procès a duré longtemps, comme quand j'attends que mon coca ait plus de bulles. Mais Chow et Law avaient l’air honnête, alors ils ont gagné. C’est eux les patrons du cube maintenant
+Le procès a duré longtemps, comme quand j'attends que mon coca ait plus de bulles. Mais Chow et Law avaient l’air honnête, alors ils ont gagné. C’est eux les patrons du cube maintenant.
 
-Finalement, Margaret se retrouve sans maison, sans le sou et avec douze chiens, tel le clodo qui s’enfile des blue light au coin de ma rue en écoutant de la musique trop fort avec son poste de radio.
-Dans sa poursuite de la voie du punk à chien, Margaret décide de déménager dans la cave située sous le jardin, façon tirage de cable et siphonnage d'électricité. Après c’est une cave de riche avec salon, salle à manger et chambre en suite. La richesse c’est bien, on peut faire les choses proprement.
+Finalement, Margaret se retrouve sans maison, sans le sou et avec douze chiens, tel le clodo qui s’enfile des blue light au coin de ma rue en écoutant de la musique trop fort avec son poste de radio.  
+Dans sa poursuite de la voie du punk à chien, Margaret décide de déménager dans la cave située sous le jardin, façon tirage de cable et siphonnage d'électricité.  
+Après c’est une cave de riche avec salon, salle à manger et chambre en suite. La richesse c’est bien, on peut faire les choses proprement.
 
 Malheureusement, Chow et Law préfèrent le jardinage à la compagnie de Margaret et ses douze chiens. Margaret est forcée par le gouvernement de quitter son donjon. Ça ressemble à l'éviction de mes voisins bulgares, si on remplace les douze chiens par des gosses.
 
@@ -118,6 +124,8 @@ En 2014, Christopher Quiche dit “La piche” avait savamment réinjecté 3 mil
 Cet argent il l’avait gagné du seul bout de ses doigts, dans une vague histoire de machines à sous, de peer-to-peer et de voix sur IP.
 
 Trônait au milieu du jardin, le palanquin de la baise. Un autre cube de bouillon, plus petit celui-ci, comme réduit dans la soupe de la veille de Noël de mes 14 ans. J’avais le nez qui coulait au milieu des croûtons, des lunettes Adadas qui reflétaient vaguement une émission de Patrice Laffont sous la lampe à huile de la cuisine et encore une rouste comme seul cadeau. Ingénierié en inox inoxydable et en bois qui vient des arbres, la boîte à bécote possède des rideaux capables de couper les occupants du soleil suintant de la baie et des jardiniers qui gazonnent aux alentours.
+
+{{< figure src="la_boite_a_baise.jpg" width=400 title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
 
 ## La bière
 
