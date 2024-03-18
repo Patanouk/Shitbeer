@@ -39,9 +39,9 @@ Pour y accéder, c’est pas compliqué, il faut traverser la montagne à pieds,
 D’abord les prolos, qui jouent en équipe aux dominos sur la place rudimentaire d’un village rudimentaire.  
 Puis chez les riches, qui vivent tous dans des maisons copiées les unes sur les autres, toutes orientées face aux flots lointains, ou face à une autre maison de riche, construite plus tard, pour leur chiper le panorama, en attendant de se le faire reprendre par une prochaine maison de fortuné, construite devant, n-ième édifice dans une farandole de villa qui finira fatalement dans la flotte.  
 Dans ce genre de maisons, t’y habites quand t’as les moyens de te payer un chauffeur, parce que y’a pas de bus.  
-Y’a pas de bar-tabac, y’a pas de supérette, y’a pas de boulangerie ni de banc publiques. Y’a juste un terrain de tennis, entouré de grillages. Il faut une clef pour rentrer.
+Y’a pas de bar-tabac, y’a pas de supérette, y’a pas de boulangerie ni de banc publique. Y’a juste un terrain de tennis, entouré de grillages. Il faut une clef pour rentrer.
 
-Et enfin, en tout dernier, les encore plus riches, ceux qu’ils ont leur propres plages, leurs propres bateaux, des lustres Swarovski, des dizaines de chiens, et plus de mariages que mon oncle Dennis.
+Et enfin, en tout dernier, les encore plus riches, ceux qu’ils ont leurs propres plages, leurs propres bateaux, des lustres Swarovski, des dizaines de chiens, et plus de mariages que mon oncle Dennis.
 
 Parmi ceux-là, moi, je rends visite à Margaret Chiu.
 
@@ -66,7 +66,7 @@ Tan Wai Kee, on a pas d’info. C’est comme les ingrédients de la Perlembourg
 Chris Piche, c’est le second mari. Il est canadien. Un mari exotique, c’est comme un voyage mais sans prendre l’avion.  
 M. Piche est un futé, il est rentré à l'université a 13 ans pour faire de l’informatique
 
-Après, il s’est mis en affaire avec Stanley Ho. Ho il est aussi futé, il a fait fortune dans les casinos à Macao. En les construisant, pas en jouant a la roulette ou au Sic bo. Le Sic bo c’est trop chinois, je comprends pas, et la roulette je perds quand c’est vert
+Après, il s’est mis en affaire avec Stanley Ho. Ho, il est aussi futé, il a fait fortune dans les casinos à Macao. En les construisant, pas en jouant a la roulette ou au Sic bo. Le Sic bo c’est trop chinois, je comprends pas, et la roulette je perds quand c’est vert
 L'équipe des futés construit en 2000 la première plateforme de casino sur l’internet. Comme ça les riches chinois peuvent perdre depuis chez eux au lieu de perdre à Macau
 
 …
@@ -80,16 +80,16 @@ Sa passion pour le Yoga dépassait de peu sa passion pour les affaires.
 À la suite du décès de son père et de dépenses colossales dans le business de la faillite Margaret Chiu fut propulsée vers le dépôt de bilan saveur Pepsi Philippin sur fond de Burt Reynolds sur une peau d’ours.
 
 Le business c’est compliqué, et Margaret elle n’est pas douée avec la monnaie.   
-Heureusement, Mr Chow Kam Wah (“Chow”) et Mr Law Kwan Yin (“Law”) aiment bien les maison bouillon-cube, et offrent un premier prêt hypothécaire de HK$70 million en 2017.  
-La faillite étant plus grosse que prévue, Margaret reprend un second prêt hypothécaire en 2017, puis en troisième avec Chow et Law, suivi par un quatrième et cinquième en Juin et Juillet 2018.  
+Heureusement, Mr Chow Kam Wah (“Chow”) et Mr Law Kwan Yin (“Law”) aiment bien les maisons bouillon-cube, et offrent un premier prêt hypothécaire de HK$70 million en 2017.  
+La faillite étant plus grosse que prévu, Margaret reprend un second prêt hypothécaire en 2017, puis en troisième avec Chow et Law, suivi par un quatrième et cinquième en Juin et Juillet 2018.  
 Normalement, quand ça ne marche pas, il faut s'arrêter. Après c’est comme les abalones. J’aime pas ça, mais à chaque fois je goûte pour faire plaisir. J’en suis à ma tentative numéro 6.
 
 Chow et Law, ils aimaient bien la maison, mais ils préféraient quand même l’argent.   
 Margaret, elle avait une maison mais plus d’argent. L’oseille c’est plus pratique parce que ça rentre dans la poche.  
 
-Le premier mari, il a entendu l’appel de la banqueroute, et il est venu participer. Les gens riches, ca s’occupe comme ca peut.  
-La moitié du cube (ça fait 50%) était à son nom apparemment. Après c’est des histoires de riche, c’est toujours plus compliqué.  
-La maison elle appartenait à une société, et la société elle appartenait à Margaret. Mais le premier mari, il avait quand même un peu droit à la maison, mais que pour la vente, pas pour y habiter. Comme mon oncle avec sa Punto moche
+Le premier mari, il a entendu l’appel de la banqueroute, et il est venu participer. Les gens riches, ça s’occupe comme ça peut.  
+La moitié du cube (ça fait 50%) était à son nom apparemment. Après ce sont des histoires de riche, c’est toujours plus compliqué.  
+La maison, elle appartenait à une société, et la société, elle appartenait à Margaret. Mais le premier mari, il avait quand même un peu droit à la maison, mais que pour la vente, pas pour y habiter. Comme mon oncle avec sa Punto moche
 
 Maggy la crapule, elle avait signé tous les prêts de ses propres doigts. Chow et Law n'étaient pas au courant du mari.  
 Ils étaient venus visiter pourtant, mais Margaret avait remplacé les deux maris par un homme de ménage, quatorze chiens et pas d’enfants.
@@ -111,17 +111,17 @@ Chow et Law n'ont pas dû aimer l’odeur des clébs.
 
 ## Le jardin
 
-En quittant la propriété sur les coups de 18h12 précisément, je remarqua, comme une extension de derrière la palissade de fond de jardin.
+En quittant la propriété sur les coups de 18h12 précisément, je remarquai, comme une extension de derrière la palissade de fond de jardin.
 
 Gardé par des caméras sans piles, un grillage probablement pas électrique dont personne ne paie les factures, et un signe qui intime fermement de ne pas rentrer il y avait une extension.
 
 Une énorme esplanade, grande comme le parking d’un Jardiland de banlieue de Poitiers, qui surplombait une mer qui commençait tranquillement à s'assombrir de la nuit qui tombe comme les papiers de la banqueroute sur la table en plexi de la cuisine.
 
-Creusés tout autour, une tranchée permettait de désobstruer la perspective en dégageant la végétation vers un mètre plus bas. Cette petite merveille de maraîchage fut un excellent fossé à pisse.
+Creusée tout autour, une tranchée permettait de désobstruer la perspective en dégageant la végétation vers un mètre plus bas. Cette petite merveille de maraîchage fut un excellent fossé à pisse.
 
 En 2014, Christopher Quiche dit “La piche” avait savamment réinjecté 3 millions de dollars canadiens dans l’édification de ce jardin à la pelouse brossée, aux nombreuses niches à clébards de compèt’ en noisetier (les niches, pas les chiens, eux ils sont en poils et en odeur de pull mouillé) et bourré de statues à l'exotisme douteux. Promontoire érigé sur la mer dans le seul but de mettre en pratique les nouveaux mouvements agiles de sa nouvelle femme.
 
-Cet argent il l’avait gagné du seul bout de ses doigts, dans une vague histoire de machines à sous, de peer-to-peer et de voix sur IP.
+Cet argent, il l’avait gagné du seul bout de ses doigts, dans une vague histoire de machines à sous, de peer-to-peer et de voix sur IP.
 
 Trônait au milieu du jardin, le palanquin de la baise. Un autre cube de bouillon, plus petit celui-ci, comme réduit dans la soupe de la veille de Noël de mes 14 ans. J’avais le nez qui coulait au milieu des croûtons, des lunettes Adadas qui reflétaient vaguement une émission de Patrice Laffont sous la lampe à huile de la cuisine et encore une rouste comme seul cadeau. Ingénierié en inox inoxydable et en bois qui vient des arbres, la boîte à bécote possède des rideaux capables de couper les occupants du soleil suintant de la baie et des jardiniers qui gazonnent aux alentours.
 
@@ -132,5 +132,9 @@ Trônait au milieu du jardin, le palanquin de la baise. Un autre cube de bouillo
 {{< figure src="BlackBeerHouse.png" width=400 >}}
 
 La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût. Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de partie de roulette russe, et une sensation persistante de rancune en bouche.
+
+## Les détails
+
+D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est bonne
 
 Gaspar Canette
