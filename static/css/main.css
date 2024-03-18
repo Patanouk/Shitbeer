@@ -70,7 +70,10 @@ main a {
   text-align: left;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+}
+
+.article_page_signature {
+  text-align: end;
 }
 
 .article_page_shit_beer_logo_container {

@@ -133,5 +133,3 @@ D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est b
 1. [Le pdf du procès de Margaret la fraudasse avec sa maison](Margaret-Chiu-proces-maison.pdf)
 2. [Le pdf du procès de Margaret la punk à chien avec son jardin](Margaret-Chiu-proces-jardin.pdf)
 3. [La photo de la crapule](https://today.line.me/hk/v2/article/mvWkMZ)
-
-Gaspar Canette
