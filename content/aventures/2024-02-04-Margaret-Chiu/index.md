@@ -8,22 +8,15 @@ type = 'aventures'
 layout = 'aventure-post'
 +++
 
-Un // entre la découverte de la maison et l’histoire de Margaret Chiu.
-C’est quoi l’axe? Pourquoi on suit son aventure?
-
-—
-
 Casino en ligne, villa vue sur la mer, 15 clébards, position de la pince assise, 2 maris et pas moins de procès, préparez-vous à découvrir la vie palpitante de Margaret “banqueroute à toute heure” Chiu.
 
 Une vague histoire de machines à sous et de parents bourrés de pognon.
 
-—
-
 ## La maison
 
-J’auscultais comme à mon habitude une maison de bourgeoise, à mi chemin entre le cube de bouillon et le broc d’eau Arcoroc.
+J’auscultais comme à mon habitude une maison de bourgeoise, à mi-chemin entre le cube de bouillon et le broc d’eau Arcoroc.
 
-Du genre grande fenêtres vue sur la mer et procès en cours.
+Du genre grandes fenêtres vue sur la mer et procès en cours.
 
 Petit esprit ravalement de façade façon burin et pointerolle par les zouaves du gouvernement.
 
