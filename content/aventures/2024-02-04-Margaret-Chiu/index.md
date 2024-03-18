@@ -1,7 +1,7 @@
 +++
 title = 'Sexe, Yoga et Banqueroute'
 summary = 'Mr piche et Margaret Chiu: La cabane de la banqueroute'
-beer = "BlackBeer.png"
+beer = "BlackBeerIcon.png"
 beer_grade="Pince assise"
 date = 2024-02-12
 type = 'aventures'
@@ -63,7 +63,7 @@ Elle adore les canidés et en possède plus que moi de dents, le yoga sous tous 
 Tan Wai Kee, on a pas d’info. C’est comme les ingrédients de la Perlembourg de Lidl
 
 #### Mariage 2  
-Chris Piche, c’est le second mari. Il est canadien. Un mari exotique, c’est comme un voyage mais sans prendre l’avion.
+Chris Piche, c’est le second mari. Il est canadien. Un mari exotique, c’est comme un voyage mais sans prendre l’avion.  
 M. Piche est un futé, il est rentré à l'université a 13 ans pour faire de l’informatique
 
 Après, il s’est mis en affaire avec Stanley Ho. Ho il est aussi futé, il a fait fortune dans les casinos à Macao. En les construisant, pas en jouant a la roulette ou au Sic bo. Le Sic bo c’est trop chinois, je comprends pas, et la roulette je perds quand c’est vert
@@ -128,6 +128,8 @@ Trônait au milieu du jardin, le palanquin de la baise. Un autre cube de bouillo
 {{< figure src="la_boite_a_baise.jpg" width=400 title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
 
 ## La bière
+
+{{< figure src="BlackBeerHouse.png" width=400 >}}
 
 La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût. Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de partie de roulette russe, et une sensation persistante de rancune en bouche.
 
