@@ -95,7 +95,7 @@ Après c’est une cave de riche avec salon, salle à manger et chambre en suite
 
 Malheureusement, Chow et Law préfèrent le jardinage à la compagnie de Margaret et ses douze chiens. Margaret est forcée par le gouvernement de quitter son donjon. Ça ressemble à l'éviction de mes voisins bulgares, si on remplace les douze chiens par des gosses.
 
-Je suis repassé lors de ma tournée de canette trimestrielle, et le gouvernement à piqué le terrain. Ils ont même mis un panneau, comme ça c'est officiel et Margaret et ses chiens ne peuvent plus revenir. Les chiens ne savent pas lire, mais Margaret en est capable, donc elle leur expliquera.
+Je suis repassé lors de ma tournée de canette trimestrielle, et le gouvernement a piqué le terrain. Ils ont même mis un panneau, comme ça c'est officiel et Margaret et ses chiens ne peuvent plus revenir. Les chiens ne savent pas lire, mais Margaret en est capable, donc elle leur expliquera.
 
 Chow et Law n'ont pas dû aimer l’odeur des clébs.
 
