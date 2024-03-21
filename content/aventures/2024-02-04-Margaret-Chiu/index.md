@@ -1,6 +1,6 @@
 +++
 title = 'Sexe, Yoga et Banqueroute'
-summary = 'Mr piche et Margaret Chiu: La cabane de la banqueroute'
+summary = 'Casino en ligne, villa vue sur la mer, 15 clébards, position de la pince assise, 2 maris et pas moins de procès, préparez-vous à découvrir la vie palpitante de Margaret “banqueroute à domicile” Chiu.'
 beer = "BlackBeerIcon.png"
 beer_grade="Pince assise"
 date = 2024-02-12

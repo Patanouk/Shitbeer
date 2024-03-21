@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div>
+<div class="front_page">
     <div class="front_page_shit_beer">
         <img class="front_page_shit_beer_logo" src="/img/shit_beer_logo.svg" alt="Shit Beer logo">
     </div>
@@ -12,7 +12,7 @@
             {{ with .Resources.Get .Params.beer }}
                 <img class="front_page_article_beer_picture" src="{{ .RelPermalink }}" height="50px" alt="">
             {{ end }}
-            <div>
+            <div class="front_page_article_summary">
               {{ .Params.summary }}
             </div>
         </div>
