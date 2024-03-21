@@ -71,6 +71,15 @@ main a {
   vertical-align: middle;
 }
 
+.article_page_content {
+  text-align: justify;
+}
+
+.article_page_image_legend {
+  font-style: italic;
+  font-size: 80%;
+}
+
 .article_page_beer_grade_container {
   text-align: left;
   display: flex;
