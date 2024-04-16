@@ -1,8 +1,8 @@
 +++
 title = "Et Jésus mangea ses prot’ <br> Les robots poussent dans la jungle"
-summary = "Vieille aux doigts crochues, pirates, animatronics, Jesus gonflé a la créatine. Ici on entre dans le rêve d'un patron de bar cocainé"
+summary = "Vieille aux doigts crochues, pirates, animatronics, Jésus gonflé a la créatine. Ici on entre dans la vision d'un patron de bar cocainé"
 beer = "SnowBeerIcon.png"
-beer_grade="Biceps de Jesus"
+beer_grade="Biceps de Jésus"
 date = 2023-03-11
 type = 'aventures'
 layout = 'aventure-post'
@@ -40,7 +40,9 @@ Moi avec mon Jean Liddle et ma casquette que j’ai acheté chez le fleuriste j�
 
 M’en fous je choperai un coup de soleil que je montrerai aux copains avec autant de fierté que j’ai de dents dans mon sourire.
 
-Et vaut mieux avoir le sourire dans un pays où il fait 34 degrés de température 75% d'humidité à l’ombre tout le long d’une côte bosselée par le soleil. Comme // TODO [...] 
+Et vaut mieux avoir le sourire dans un pays où il fait 34 degrés de température 75% d'humidité à l’ombre tout le long d’une côte bosselée par le soleil. J’ai la tête qui tourne plus qu’un cochon de lait sur une table de dim sum.
+
+À la fin du chemin, les animaux seront là. Je marche vers le rêve fiévreux d’un patron de bar au cerveau amoindri par les gin tonics à vingt dollars. Et ça, ça me donne de la force.
 
 // TODO
 Photo des gogues en vertical
@@ -75,10 +77,10 @@ Des fenêtres brisées comme à Perpignan un premier mai.
 
 Des tags plus frais que la peinture d’origine mais en même temps l’inverse m'aurait étonné.
 
-Et surtout un énorme Jésus. Un jésus aux veines d'acier, un jésus façon Sisyphe qui pousse des cailloux en haut de la montagne, les bras calibre 12 trempés dans l’acier comme on trempe ses McNuggets dans la sauce pomme frite. Jusqu'à mouiller les doigts d’une pointe de honte, le sourire coincé entre malicieux et fautif.
-Son auréole c’est un boomerang en casuarina.
-Il a plus d’abdo que la tablette nestle dessert Noir 205 grammes. Sauf que lui il fond pas au bain marie.
-Il est doré jusqu'à ses orteils plantés dans les fougères de pré salé qui entourent l’endroit.
+Et surtout un énorme Jésus. Un Jésus aux veines d'acier, un Jésus façon Sisyphe qui pousse des cailloux en haut de la montagne, les bras calibre 12 trempés dans l’acier comme on trempe ses McNuggets dans la sauce pomme frite. Jusqu'à mouiller les doigts d’une pointe de honte, le sourire coincé entre malicieux et fautif.  
+Son auréole c’est un boomerang en casuarina.  
+Il a plus d’abdo que la tablette nestle dessert Noir 205 grammes. Sauf que lui il fond pas au bain marie.  
+Il est doré jusqu'à ses orteils plantés dans les fougères de pré salé qui entourent l’endroit.  
 
 Il répond à la question “Et si Jésus était tombé dans la marmite de créatine étant jeune peau-rouge”. Je me la pose souvent en regardant l’indien du placard. J’avais la VHS dans le meuble de la droite de la téloche de chez la voisine Le truc avait enregistré les films cultes et les vacances en familles des centaines de fois sur la même VHS, du coup il fallait plisser les yeux pour comprendre l’histoire. Moi j’ai des lunettes qu’on me les volait toujours, du coup ça change rien. On regardait le film en pantoufles en mangeant des gaufres. Le secret c’est de mettre de la bière dans la pâte. Dans les pantoufles, ça colle aux orteils.
 
@@ -100,7 +102,7 @@ C'était comme suivre la côte à la manière des contrebandiers de la belle ép
 
 ## La bière
 
-Classique parmi les classiques. Peut être LA bière à l’origine de toutes les autres.
+Classique parmi les classiques. Peut-être LA bière à l’origine de toutes les autres.
 Le carburant pour la construction des pyramides égyptiennes
 
 Un goût précis dans un flou stérile comme un télescope Omegon AC 60/700 AZ-1 pointé vers le néant qui sépare Epsilon Aurigae A et sa sœur la B.  
