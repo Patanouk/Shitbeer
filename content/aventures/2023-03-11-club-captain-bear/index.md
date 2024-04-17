@@ -8,6 +8,8 @@ type = 'aventures'
 layout = 'aventure-post'
 +++
 
+{{< carousel items="1" height="600" unit="px" duration="70000000" data="/carousel" >}}
+
 ## Le cheminement
 
 Comme chaque fois que je m’ennuie, je suis parti en direction de l’aventure. Comme on prend la mer, comme on prend un bateau, je suis allé prendre la mer dans un bateau.
