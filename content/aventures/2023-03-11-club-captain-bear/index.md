@@ -8,8 +8,6 @@ type = 'aventures'
 layout = 'aventure-post'
 +++
 
-{{< carousel items="1" height="600" unit="px" duration="70000000" data="/carousel" >}}
-
 ## Le cheminement
 
 Comme chaque fois que je m’ennuie, je suis parti en direction de l’aventure. Comme on prend la mer, comme on prend un bateau, je suis allé prendre la mer dans un bateau.
@@ -119,3 +117,7 @@ Les sources ça donne de l’eau fraîche.
 
 1. [Les sources dans la langue des pirates](https://web.archive.org/web/20171005170611/http://hk.apple.nextmedia.com/supplement/travel/art/20150606/19173612)
 2. [Les sources d'un collègue](https://gwulo.com/node/58836#17~22.35575~114.34176~Map_by_GovHK-Markers~100)
+
+## Les images
+
+{{< carousel items="1" height="600" unit="px" duration="70000000" data="/carousel" >}}
