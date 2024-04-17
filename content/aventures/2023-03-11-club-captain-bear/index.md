@@ -10,9 +10,9 @@ layout = 'aventure-post'
 
 ## Le cheminement
 
-Comme chaque fois que je m’ennuie, je suis parti en direction de l’aventure. Comme on prend la mer, comme on prend un bateau, je suis allé prendre un la mer dans un bateau.
+Comme chaque fois que je m’ennuie, je suis parti en direction de l’aventure. Comme on prend la mer, comme on prend un bateau, je suis allé prendre la mer dans un bateau.
 
-J’ai filé 4 pièces de cuivre à une vieille, comme on filait à l'époque ses pièces à Judas. Je parle son langage de manière approximative comme quand je fais le Karaoke d’une chanson de Garou. Je lui bafouille une dizaine de fois le village dans lequel on était en guise de destination. Mais t'inquiètes pas on arrive à se démerder. Les pièces de cuivre ça lubrifie la conversation
+J’ai filé 4 pièces de cuivre à une vieille, comme on filait à l'époque ses pièces à Judas. Je parle son langage de manière approximative comme quand je fais le Karaoke d’une chanson de Garou. Je lui bafouille une dizaine de fois le village dans lequel on était en guise de destination. Mais t'inquiètes pas on arrive à se démerder. Les pièces de cuivre ça lubrifie la conversation.
 
 Une fois l’objectif en tête, elle siffla entre ses doigts qu’on dirait des griffes.
 
