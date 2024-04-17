@@ -55,7 +55,7 @@ M. Piche est un futé, il est rentré à l'université a 13 ans pour faire de l�
 Après, il s’est mis en affaire avec Stanley Ho. Ho aussi est futé, il a fait fortune dans les casinos à Macao. En les construisant, pas en jouant à la roulette ou au Sic bo. Le Sic bo c’est trop chinois, je comprends seulement après trois verres de baiju sans bulles, et la roulette je perds quand c’est vert.
 L'équipe des futés construit en 2000 la première plateforme de casino sur l’internet. Comme ça les riches chinois peuvent perdre depuis chez eux au lieu de perdre sur place.
 
-{{< figure src="yoga_flexible.jpg" width=400 title="Des fois pour sauver son mariage, il faut faire preuve de flexibilité" >}}
+{{< figure src="yoga_flexible_sauvetage_de_mariage.jpg" width=400 title="Des fois pour sauver son mariage, il faut faire preuve de flexibilité" >}}
 
 ## Les procès
 
@@ -83,7 +83,7 @@ Malheureusement, Chow et Law préfèrent le jardinage à la compagnie de Margare
 La maison est vide maintenant. Le gouvernement de Hong Kong a saisi le jardin. À Hong Kong le terrain ne s'achète pas, ça se loue. Comme les robes de mariées pour les pauvres.
 Il y a même un panneau du gouvernement dans le jardin, comme ça c'est officiel et Margaret et ses clébs ne peuvent plus revenir. Les chiens ne savent pas lire, mais Margaret oui, donc elle leur expliquera.
 
-{{< figure src="banqueroute.jpg" width=400 title="La banqueroute est un sport individuel" >}}
+{{< figure src="banqueroute_toute_seule.jpg" width=400 title="La banqueroute est un sport individuel" >}}
 
 ## Le jardin
 
@@ -117,6 +117,6 @@ La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà
 
 D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est bonne.
 
-1. [Le pdf du procès de Margaret la fraudasse avec sa maison](Margaret-Chiu-proces-maison.pdf)
-2. [Le pdf du procès de Margaret la punk à chien avec son jardin](Margaret-Chiu-proces-jardin.pdf)
+1. [Le pdf du procès de Margaret la fraudasse avec sa maison](Margaret-Chiu-la-crapule-proces-maison.pdf)
+2. [Le pdf du procès de Margaret la punk à chien avec son jardin](Margaret-Chiu-la-crapule-proces-jardin.pdf)
 3. [La photo de la crapule](https://today.line.me/hk/v2/article/mvWkMZ)
