@@ -57,7 +57,7 @@ Le patron est un rapide. Il ouvre son club en 2006. Il ferme son club en 2006. M
 
 Le patron est un sans-cœur. Il abandonne les animatronics sur place. À Hong Kong les appartements sont petits, il y a pas la place.
 
-//TODO add picture
+{{< figure src="piscine_maudite_par_les_dieux.jpg" width=400 title="Le rêve du patron est trop fiévreux pour les dieux de la baie du grand serpent" >}}
 
 ## Le club
 Comme tous les bons clubs de la capitale de la Vienne, l’endroit est bourré d’animaux qui pourrissent sur pattes.
