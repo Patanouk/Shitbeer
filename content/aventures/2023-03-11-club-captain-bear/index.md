@@ -44,10 +44,7 @@ Et vaut mieux avoir le sourire dans un pays où il fait 34 degrés de températu
 
 À la fin du chemin, les animaux seront là. Je marche vers le rêve fiévreux d’un patron de bar au cerveau amoindri par les gin tonics à vingt dollars. Et ça, ça me donne de la force.
 
-// TODO
-Photo des gogues en vertical
-Legende
-Les toilettes ne sont qu’illusion, tu pisses directement dans l’eau
+{{< figure src="pisse_dans_l'eau.jpg" width=400 title="Les toilettes ne sont qu’illusion, tu pisses directement dans l’eau" >}}
 
 ## Le patron
 Le patron est un homme mystérieux. Il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai.
