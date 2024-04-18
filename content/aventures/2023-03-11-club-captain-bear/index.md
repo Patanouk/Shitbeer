@@ -99,7 +99,7 @@ C'était comme suivre la côte à la manière des contrebandiers de la belle ép
 
 ## La bière
 
-Classique parmi les classiques. Peut-être LA bière à l’origine de toutes les autres.
+Classique parmi les classiques. Peut-être LA bière à l’origine de toutes les autres.  
 Le carburant pour la construction des pyramides égyptiennes
 
 Un goût précis dans un flou stérile comme un télescope Omegon AC 60/700 AZ-1 pointé vers le néant qui sépare Epsilon Aurigae A et sa sœur la B.  
