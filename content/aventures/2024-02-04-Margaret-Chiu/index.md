@@ -109,7 +109,8 @@ Y’avait moi, j’avais ma bière.
 
 ## La bière
 
-La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût. Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de partie de roulette russe, et une sensation persistante de rancune en bouche.
+La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût.  
+Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de parties de roulette russe, et une sensation persistante de rancune en bouche.
 
 {{< figure src="BlackBeerHouse.png" width=400 title="La bière c'est comme le coca, c'est meilleur sans bulles" >}}
 
