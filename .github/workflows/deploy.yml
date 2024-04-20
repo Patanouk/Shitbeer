@@ -4,4 +4,10 @@ jobs:
   Deploy-Hugo-Website:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - env:
+          SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY}}
+          OVH_VPS_SSH_IP: ${{ vars.OVH_VPS_SSH_IP}}
+          OVH_VPS_SSH_PORT: ${{ vars.OVH_VPS_SSH_PORT}}
+        run: |
+          echo $OVH_VPS_SSH_IP
+          echo $OVH_VPS_SSH_PORT
