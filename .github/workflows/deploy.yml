@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - with:
-          SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY}}
+          OVH_VPS_SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY}}
         run: |
           echo "Hello world"
