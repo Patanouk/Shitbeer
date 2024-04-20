@@ -3,6 +3,8 @@ on: [push]
 jobs:
   Deploy-Hugo-Website:
     runs-on: ubuntu-latest
+    container:
+      image: hugomods/hugo:0.125.2
     steps:
       - env:
           SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY}}
