@@ -7,7 +7,9 @@ jobs:
       image: hugomods/hugo:0.125.2
     steps:
       - name: hugo build
-        run: hugo
+        run: |
+          ls
+          hugo
       - name: hugo build upload
         uses: actions/upload-artifact@v4
         with:
