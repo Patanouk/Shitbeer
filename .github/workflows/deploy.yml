@@ -6,6 +6,11 @@ jobs:
     container:
       image: hugomods/hugo:0.125.2
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+        run: git checkout HEAD^
       - name: hugo build
         run: |
           cd /github/home
