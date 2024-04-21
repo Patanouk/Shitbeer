@@ -1,5 +1,11 @@
-## Nginx logs
+## Nginx Cheatsheet
+
+### Logs
 `systemctl status nginx.service`
+
+### Restart
+`sudo systemctl reload nginx`
+
 
 ## Certificate
 
