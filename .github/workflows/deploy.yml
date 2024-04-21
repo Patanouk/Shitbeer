@@ -17,6 +17,7 @@ jobs:
             public
   Deploy:
     runs-on: ubuntu-latest
+    needs: Build
     steps:
       - name: hugo build download
         uses: actions/download-artifact@v4
