@@ -8,9 +8,9 @@ jobs:
     steps:
       - name: hugo build
         run: |
-          ls
-          ls /
-          pwd
+          echo "ls" && ls
+          echo "ls root" && ls /
+          echo "pwd" && pwd
           hugo
       - name: hugo build upload
         uses: actions/upload-artifact@v4
