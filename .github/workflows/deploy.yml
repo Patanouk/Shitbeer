@@ -8,8 +8,8 @@ jobs:
     steps:
       - name: hugo build
         run: |
+          cd /github/workspace
           echo "ls" && ls
-          echo "ls root" && ls /
           echo "pwd" && pwd
           hugo
       - name: hugo build upload
