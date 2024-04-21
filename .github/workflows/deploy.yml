@@ -27,6 +27,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: hugo-build
+          path: public
       - name: hugo deploy
         env:
           SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY }}
