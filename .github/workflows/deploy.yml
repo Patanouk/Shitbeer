@@ -1,16 +1,33 @@
 name: Deploy Hugo Website
 on: [push]
 jobs:
-  Deploy-Hugo-Website:
+  Build:
     runs-on: ubuntu-latest
     container:
       image: hugomods/hugo:0.125.2
     steps:
-      - env:
+      - name: hugo build
+        run: hugo
+      - name: hugo build upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-build
+          retention-days: 1
+          path: |
+            public
+  Deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: hugo build download
+        uses: actions/download-artifact@v4
+        with:
+          name: hugo-build
+      - name: hugo deploy
+        env:
           SSH_PRIVATE_KEY: ${{ secrets.OVH_VPS_SSH_PRIVATE_KEY}}
           SSH_IP: ${{ vars.OVH_VPS_SSH_IP}}
           SSH_PORT: ${{ vars.OVH_VPS_SSH_PORT}}
           SSH_USERNAME: ${{ vars.OVH_VPS_SSH_USERNAME}}
         run: |
           ssh-add - <<< "${SSH_PRIVATE_KEY}"
-          hugo && rsync -avz --delete -e "ssh -p ${SSH_PORT}" public/ ${SSH_USERNAME}@${SSH_IP}:~/www/
+          rsync -avz --delete -e "ssh -p ${SSH_PORT}" public/ ${SSH_USERNAME}@${SSH_IP}:~/public/
