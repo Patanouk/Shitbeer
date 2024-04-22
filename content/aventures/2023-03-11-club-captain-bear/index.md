@@ -44,7 +44,7 @@ Et vaut mieux avoir le sourire dans un pays où il fait 34 degrés de températu
 
 À la fin du chemin, les animaux seront là. Je marche vers le rêve fiévreux d’un patron de bar au cerveau amoindri par les gin tonics à vingt dollars. Et ça, ça me donne de la force.
 
-{{< figure src="pisse_dans_l'eau.jpg" width=400 title="Les toilettes ne sont qu’illusion, tu pisses directement dans l’eau" >}}
+{{< figure src="pisse_dans_l'eau.jpg" title="Les toilettes ne sont qu’illusion, tu pisses directement dans l’eau" >}}
 
 ## Le patron
 Le patron est un homme mystérieux. Il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai.
@@ -57,7 +57,7 @@ Le patron est un rapide. Il ouvre son club en 2006. Il ferme son club en 2006. M
 
 Le patron est un sans-cœur. Il abandonne les animatronics sur place. À Hong Kong les appartements sont petits, il y a pas la place.
 
-{{< figure src="piscine_maudite_par_les_dieux.jpg" width=400 title="Le rêve du patron est trop fiévreux pour les dieux de la baie du grand serpent" >}}
+{{< figure src="piscine_maudite_par_les_dieux.jpg" title="Le rêve du patron est trop fiévreux pour les dieux de la baie du grand serpent" >}}
 
 ## Le club
 Comme tous les bons clubs de la capitale de la Vienne, l’endroit est bourré d’animaux qui pourrissent sur pattes.
@@ -81,7 +81,7 @@ Il est doré jusqu'à ses orteils plantés dans les fougères de pré salé qui 
 
 Il répond à la question “Et si Jésus était tombé dans la marmite de créatine étant jeune peau-rouge”. Je me la pose souvent en regardant l’indien du placard. J’avais la VHS dans le meuble de la droite de la téloche de chez la voisine Le truc avait enregistré les films cultes et les vacances en familles des centaines de fois sur la même VHS, du coup il fallait plisser les yeux pour comprendre l’histoire. Moi j’ai des lunettes qu’on me les volait toujours, du coup ça change rien. On regardait le film en pantoufles en mangeant des gaufres. Le secret c’est de mettre de la bière dans la pâte. Dans les pantoufles, ça colle aux orteils.
 
-{{< figure src="gorille_animatronics_alcoolique.jpg" width=400 title="Avec une bière entre les doigts on dirait mon tonton Gérard" >}}
+{{< figure src="gorille_animatronics_alcoolique.jpg" title="Avec une bière entre les doigts on dirait mon tonton Gérard" >}}
 
 ## Le retour
 
@@ -95,7 +95,7 @@ C’est seulement en sortant quand j’ai vu le panneau attention glissement de 
 
 C'était comme suivre la côte à la manière des contrebandiers de la belle époque où on contrebandait encore des trucs plus glamour que la meth. Je sais pas moi, des plumes de cul de perroquet et des bijoux volés à de riches espagnoles. Y’avait du prestige, y’avait du mystère.
 
-{{< figure src="chemin_des_contrebandiers_du_fond.jpg" width=400 title="Les suggestions du gouvernement, je me torche avec" >}}
+{{< figure src="chemin_des_contrebandiers_du_fond.jpg" title="Les suggestions du gouvernement, je me torche avec" >}}
 
 ## La bière
 
@@ -109,7 +109,7 @@ Un graphisme pur, en deux couleurs dont seuls les meilleurs sont capables.
 
 Une qualité de tout premier ordre.
 
-{{< figure src="snow_beer_avec_papier_toilette_flottant_au_vent.jpg" width=400 title="Une bière aussi légère que la feuille de papier toilette flottant au vent" >}}
+{{< figure src="snow_beer_avec_papier_toilette_flottant_au_vent.jpg" title="Une bière aussi légère que la feuille de papier toilette flottant au vent" >}}
 
 ## Les sources
 

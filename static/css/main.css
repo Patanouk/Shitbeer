@@ -90,6 +90,10 @@ main a {
   text-align: justify;
 }
 
+.article_page_image {
+  max-width: 500px
+}
+
 .article_page_image_legend {
   font-style: italic;
   font-size: 90%;

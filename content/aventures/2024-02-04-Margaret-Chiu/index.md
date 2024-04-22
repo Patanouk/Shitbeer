@@ -31,7 +31,7 @@ Et enfin, en tout dernier, les encore plus riches, ceux qu’ils ont leur propre
 
 Parmi ceux-là, moi, je rends visite à Margaret Chiu.
 
-{{< figure src="maison_bouillon_cube.jpg" width=400 title="Une maison qu’on dirait un mille-feuille blanc de chez Anne-Sophie Pic." >}}
+{{< figure src="maison_bouillon_cube.jpg" title="Une maison qu’on dirait un mille-feuille blanc de chez Anne-Sophie Pic." >}}
 
 ## Margaret
 
@@ -55,7 +55,7 @@ M. Piche est un futé, il est rentré à l'université a 13 ans pour faire de l�
 Après, il s’est mis en affaire avec Stanley Ho. Ho aussi est futé, il a fait fortune dans les casinos à Macao. En les construisant, pas en jouant à la roulette ou au Sic bo. Le Sic bo c’est trop chinois, je comprends seulement après trois verres de baiju sans bulles, et la roulette je perds quand c’est vert.
 L'équipe des futés construit en 2000 la première plateforme de casino sur l’internet. Comme ça les riches chinois peuvent perdre depuis chez eux au lieu de perdre sur place.
 
-{{< figure src="yoga_flexible_sauvetage_de_mariage.jpg" width=400 title="Des fois pour sauver son mariage, il faut faire preuve de flexibilité" >}}
+{{< figure src="yoga_flexible_sauvetage_de_mariage.jpg" title="Des fois pour sauver son mariage, il faut faire preuve de flexibilité" >}}
 
 ## Les procès
 
@@ -83,7 +83,7 @@ Malheureusement, Chow et Law préfèrent le jardinage à la compagnie de Margare
 La maison est vide maintenant. Le gouvernement de Hong Kong a saisi le jardin. À Hong Kong le terrain ne s'achète pas, ça se loue. Comme les robes de mariées pour les pauvres.
 Il y a même un panneau du gouvernement dans le jardin, comme ça c'est officiel et Margaret et ses clébs ne peuvent plus revenir. Les chiens ne savent pas lire, mais Margaret oui, donc elle leur expliquera.
 
-{{< figure src="banqueroute_toute_seule.jpg" width=400 title="La banqueroute est un sport individuel" >}}
+{{< figure src="banqueroute_toute_seule.jpg" title="La banqueroute est un sport individuel" >}}
 
 ## Le jardin
 
@@ -105,14 +105,14 @@ Y’avait comme une odeur résineuse d’opulence passée qui persistait dans l�
 
 Y’avait moi, j’avais ma bière.
 
-{{< figure src="la_boite_a_baise.jpg" width=400 title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
+{{< figure src="la_boite_a_baise.jpg" title="Margaret peaufinait son yoga. La Piche, lui, pratiquait la baise" >}}
 
 ## La bière
 
 La Black Beer Stout: Juteuse, moite comme un mois d'août dans les caves de Đà Nẵng, aigre à l’odeur, amère comme la margose au goût.  
 Une bière au caractère trempé de supplicié de la cale, avec de légères saveurs de peinture à bois et de lendemain de parties de roulette russe, et une sensation persistante de rancune en bouche.
 
-{{< figure src="BlackBeerHouse.png" width=400 title="La bière c'est comme le coca, c'est meilleur sans bulles" >}}
+{{< figure src="BlackBeerHouse.png" title="La bière c'est comme le coca, c'est meilleur sans bulles" >}}
 
 ## Les détails de l'histoire
 
