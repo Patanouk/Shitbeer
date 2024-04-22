@@ -52,19 +52,18 @@ Le patron, c'est un peu un mystère. On en parle pas trop. Comme mon oncle Géra
 Le patron, c'est un vrai patron. Un patron de bar, pas ceux en costume cravate avec les chaussures en croco qui luisent.  
 Un vrai patron de bar, pas comme les mecs de la DDT qui démarrent la journée au vinaigre en carafe facon vin pieds nus. Le patron de bar, il possède vraiment des bars.  
 
-Le patron, il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai. Wan Chai, c'est le quartier où les vieux riches expats viennent dépenser leurs deniers. Ces mecs-là, ils ressemblent à Bernard Blier façon les bons vivants. Ils sont là pour s'enquiller du mauvais gin en mauvaise companie. Apres ils ont raison. La retraite faut la prendre quand on est vivant.
+Le patron, il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai. Wan Chai, c'est le quartier où les vieux riches expats viennent dépenser leurs deniers. Ces mecs-là, ils ressemblent à Bernard Blier façon je l'ai été trois fois. Ils sont là pour s'enquiller de l'alcool frelaté en mauvaise compagnie. Après ils ont raison, la retraite faut la prendre quand on est vivant.
 
-Le patron, il a les poches remplies 
+Le patron, il a les poches remplies et le nez plus enfariné que le gâteau qui pleure de Maïté. C'est l'heure du shopping décadent façon mainlander, Chanel et caca squat dans le caniveau en sortant.  
+Les courses sont rondement menées, comme une sortie de fin de mois dans les rayons du Lidl. Deux packs de Finkbrau, des crackers graine de courge et un gros saucisson du Saloir. Pour les fibres. Ça c'est moi, pas le patron. Lui ses mois sont des cercles, la fin ressemble au début.  
+Le patron procède au pillage des animaux du Rainforest Café, ménagerie complète et prix de groupe. Ses animaux là ne se mangent pas par contre, c'est pas comme au Lidl. De toute façon j'ai plus faim après la Finkbrau.
 
-Le patron est un explorateur. En 2006, il part à l'abordage de la baie du grand serpent pour y créer son club de vacances. Il fait les choses bien, avec bar, restaurant, plage, piscine.
+En 2006, c'est l'exil. Un départ avec les animaux vers la baie du grand serpent, dans le but de construire un club de vacances paradisiaque. Le patron pense à tout : bar, restaurant, plage, piscine. Un nom digne des plus grands, un rappel des années folles : le Club du Capitaine Ours.   
+Le seul truc qui manque, c'est le métro. Son club il est loin, faut prendre le bateau, et la mer ça mouille, et les gens ne savent pas nager. Du coup, c'est la faillite inévitable et rapide en moins d'un an, comme celle du café Transformers ou du vendeur de chaussettes au coin d'en bas. Ses chaussettes, elles grattent.   
 
-Le patron est un pirate. Il dépouille le Rainforest Café de ses animatronics pour lui tenir compagnie pendant les longues nuits de la jungle.
+Les bonnes faillites c'est comme le pied de porc, il y a toujours des restes. Le patron laisse derrière lui les animaux, le café, la piscine. C'est le retour à Wan chai les poches vides, le pas traînant, et le rêve brisé. 
 
-Le patron est un rapide. Il ouvre le club du capitaine ourse en 2006. Il ferme le club du capitaine ours en 2006. Moi aussi j’ai rien fait en 2006, mais ça m'a pris moins d’effort.
-
-Le patron est un sans-cœur. Il abandonne les animatronics sur place. À Hong Kong les appartements sont petits, il y a pas la place.
-
-{{< figure src="piscine_maudite_par_les_dieux.jpg" title="Le rêve du patron est trop fiévreux pour les dieux de la baie du grand serpent" >}}
+{{< figure src="piscine_maudite_par_les_dieux.jpg" title="Le rêve du patron est trop grand pour la baie du grand serpent" >}}
 
 ## Le club
 Comme tous les bons clubs de la capitale de la Vienne, l’endroit est bourré d’animaux qui pourrissent sur pattes.
