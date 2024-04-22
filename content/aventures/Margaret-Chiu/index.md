@@ -124,4 +124,4 @@ D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est b
 
 ## Les images
 
-{{< carousel items="1" height="600" unit="px" duration="70000000" data="/carousel" >}}
+{{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}

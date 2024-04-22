@@ -47,7 +47,14 @@ Et vaut mieux avoir le sourire dans un pays où il fait 34 degrés de températu
 {{< figure src="pisse_dans_l'eau.jpg" title="Les toilettes ne sont qu’illusion, tu pisses directement dans l’eau" >}}
 
 ## Le patron
-Le patron est un homme mystérieux. Il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai.
+
+Le patron, c'est un peu un mystère. On en parle pas trop. Comme mon oncle Gérard, mais lui c'est à cause de la prison.  
+Le patron, c'est un vrai patron. Un patron de bar, pas ceux en costume cravate avec les chaussures en croco qui luisent.  
+Un vrai patron de bar, pas comme les mecs de la DDT qui démarrent la journée au vinaigre en carafe facon vin pieds nus. Le patron de bar, il possède vraiment des bars.  
+
+Le patron, il a fait fortune dans le commerce de l’alcool et des femmes à Wan Chai. Wan Chai, c'est le quartier où les vieux riches expats viennent dépenser leurs deniers. Ces mecs-là, ils ressemblent à Bernard Blier façon les bons vivants. Ils sont là pour s'enquiller du mauvais gin en mauvaise companie. Apres ils ont raison. La retraite faut la prendre quand on est vivant.
+
+Le patron, il a les poches remplies 
 
 Le patron est un explorateur. En 2006, il part à l'abordage de la baie du grand serpent pour y créer son club de vacances. Il fait les choses bien, avec bar, restaurant, plage, piscine.
 
@@ -120,4 +127,4 @@ Les sources ça donne de l’eau fraîche.
 
 ## Les images
 
-{{< carousel items="1" height="600" unit="px" duration="70000000" data="/carousel" >}}
+{{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}

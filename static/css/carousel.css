@@ -1,5 +1,5 @@
 .carousel {position: relative; max-width: 800px; display: flex; justify-content: center;}
-.carousel_image_container {max-width: 85%;}
+.carousel_image_container {max-width: 85%; min-width: 80%;}
 .carousel ul {overflow: auto; display: flex; flex-wrap: nowrap; scroll-snap-type: x mandatory; scroll-snap-points-y: repeat(100%); scroll-behavior: smooth; background: gray; -ms-overflow-style: none; scrollbar-width: none; margin: 0; padding: 0;}
 .carousel ul::-webkit-scrollbar {display: none; /* Hide scrollbar for Chrome, Safari and Opera */}
 .carousel ul li {position: relative; min-width: 100%; list-style: none; background: url() center center / cover no-repeat; scroll-snap-align: start;}

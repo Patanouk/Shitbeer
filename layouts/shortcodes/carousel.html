@@ -7,10 +7,10 @@
     <div class="prev">&lsaquo;</div>
     <div class="carousel_image_container">
         <ul>
-            {{ range $index, $slide := .Page.Resources.Match (print (.Get "data") "/*") }} }}
+            {{ range $index, $slide := .Page.Resources.Match (print (.Get "data") "/*") }}
                 <li
                     id="c{{ $.Scratch.Get "ordinal" }}_slide{{ add $index 1}}"
-                    style="min-width: calc(100%/{{ $.Scratch.Get "items" }}); padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};">
+                    style="min-width: 100%; padding-bottom: {{ $.Scratch.Get "height" }}{{ $.Scratch.Get "unit" }};">
                     <img src="{{ $slide }}" alt="" loading="lazy" />
                 </li>
             {{ end }}
