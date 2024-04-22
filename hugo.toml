@@ -1,4 +1,4 @@
 baseURL = 'https://shitbeer.hk/'
 languageCode = 'fr'
-title = 'La bière c\'est pas cher'
+title = "La bière c'est pas cher"
 enableRobotsTXT = true
