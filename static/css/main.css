@@ -20,9 +20,16 @@ main {
   margin-right: 7px;
   margin-left: 7px;
   font-family: "Inconsolata";
-  width: 60%;
+  width: 90%;
   margin: auto;
 }
+
+@media (min-width:1025px) {
+    main {
+        width: 60%;
+    }
+}
+
 
 /* Removes underline on links */
 main a {
@@ -34,8 +41,16 @@ main a {
 */
 
 .front_page_shit_beer_logo {
-  height: 70vh;
+  height: auto;
   margin-top: 10vh;
+  max-width: 100%;
+  min-width: 300px;
+}
+
+@media (min-width:1025px) {
+    .front_page_shit_beer_logo {
+        height: 70vh;
+    }
 }
 
 .front_page_shit_beer {
