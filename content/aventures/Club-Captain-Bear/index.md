@@ -53,7 +53,7 @@ Le patron est un explorateur. En 2006, il part à l'abordage de la baie du grand
 
 Le patron est un pirate. Il dépouille le Rainforest Café de ses animatronics pour lui tenir compagnie pendant les longues nuits de la jungle.
 
-Le patron est un rapide. Il ouvre son club en 2006. Il ferme son club en 2006. Moi aussi j’ai rien fait en 2006, mais ça m'a pris moins d’effort.
+Le patron est un rapide. Il ouvre le club du capitaine ourse en 2006. Il ferme le club du capitaine ours en 2006. Moi aussi j’ai rien fait en 2006, mais ça m'a pris moins d’effort.
 
 Le patron est un sans-cœur. Il abandonne les animatronics sur place. À Hong Kong les appartements sont petits, il y a pas la place.
 
