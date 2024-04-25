@@ -55,6 +55,7 @@ Les bonnes faillites c'est comme le pied de porc, il y a toujours des restes. Le
 {{< figure src="piscine_maudite_par_les_dieux.jpg" title="Le rêve du patron est trop grand pour la baie du grand serpent" >}}
 
 ## Le club
+
 Effectivement, comme tous les bons clubs de la capitale de la Vienne, l’endroit est bourré d’animaux qui pourrissent sur pattes. Des animatronics comme si t'étais dans un film de Spielberg 75-84. Y'a Une girafe avec le coup 50 mètres plus loin en position horizontale de type posé sur le sol. Un singe sans poil qui tient une bière entre ses doigts. Deux éléphant, un moisi plus que l'autre, tout deux à la peau en skye épais comme un épais canapé en skye. La piscine comme dans les films de Las Vegas. Des fenêtres brisées comme à Perpignan un premier mai. Des tags plus frais que la peinture d’origine que l’inverse m'aurait étonné.
 
 Et surtout un énorme Jésus. Un Jésus aux veines d'acier, un Jésus façon Sisyphe qui pousse des cailloux en haut de la montagne, les bras calibre 12 trempés dans l’acier comme on trempe ses McNuggets dans la sauce pomme frite. Jusqu'à mouiller les doigts d’une pointe de honte, le sourire coincé entre malicieux et fautif.  
