@@ -8,10 +8,10 @@
     <div>
         {{ range (site.GetPage "aventures").Pages }}
         <div class="front_page_article_block">
+            <a class="article_title" href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
             {{ with .Resources.Get .Params.beer }}
                 <img class="front_page_article_beer_picture" src="{{ .RelPermalink }}" height="50px" alt="">
             {{ end }}
-            <a class="article_title" href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
             <div class="front_page_article_summary">
               {{ .Params.summary }}
             </div>
