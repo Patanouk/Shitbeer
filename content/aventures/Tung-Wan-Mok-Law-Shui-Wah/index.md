@@ -89,7 +89,7 @@ Au final c’est un meilleur moment qu’un AVC pendant le repas de Noel.
 
 ## L'historique  
 
-https://sense.edb.gov.hk/en/special-education/features-of-special-schools/8.html
+https://sense.edb.gov.hk/en/special-education/features-of-special-schools/8.html  
 https://www.dhamma.org/en/schedules/schmutta
 
 ## Les images
