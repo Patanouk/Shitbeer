@@ -85,7 +85,7 @@ Un petit arrière goût de pile, un petit soubresaut de l’estomac non averti.
 Une couleur pisse de glomérulopathique supplément asperges.
 Au final c’est un meilleur moment qu’un AVC pendant le repas de Noel.
 
-//TODO Beer icon
+{{< figure src="beer-rooftop.jpg" title="La bière de profil, ça fait tout de suite moins clodo" >}}
 
 ## L'historique  
 
