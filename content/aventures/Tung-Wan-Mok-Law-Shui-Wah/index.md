@@ -11,21 +11,21 @@ layout = 'aventure-post'
 ## Le voyage
 
 Le vent était tombé, on devait être un samedi pas comme les autres. Un samedi d’après tempête (2016) et d’avant The Third Murder (2017) et on était en 2023.
-Je rendais visite à tonton Gérard au centre pénitentiaire, lui apportant des oranges, des sanguines, faut les presser, des magazines de cul Allemand, années 70, catégorie tracteurs et bottes hautes, et suffisamment de cigarettes à dilapider en partie de poker pour qu’il me laisse tranquille jusqu’à la saint Léonard, quand j’ai entendu comme le bruit d’un gong en faux cuivre au loin.
+Je rendais visite à tonton Gérard au centre pénitentiaire, lui apportant des oranges, des sanguines, faut les presser, des magazines de cul Allemands, années 70, catégorie tracteurs et bottes hautes, et suffisamment de cigarettes à dilapider en partie de poker pour qu’il me laisse tranquille jusqu’à la saint Léonard, quand j’ai entendu comme le bruit d’un gong en faux cuivre au loin.
 Vu que j’adore les instruments d'où le son sort quand tu tapes dessus, comme le fils de la voisine, je me suis dirigé par là bas, les narines en l’air, le bermuda remonté, le cartable sur les épaules.
 
 Pour atteindre la prison, il faut déjà aller à Lantau, c’est un peu le Poitiers d’ici. C’est pas si loin que ça, mais y’a aucune raison d’y aller.
 À Lantau y’a pas le Futuroscope, y’a le Disney Land.
-Puis après tu prends le bus. Dans ce bus y’a que des vieux riches et leurs fils, qui rentrent du tennis, et des vrai gars du bâtiments, qui sont en train de construire les maisons de vacance des type de tout à l'heure. Ils vont dans des directions opposées. Tu te jettes par la fenêtre au détour d’un virage. Et tu marches le long de la route.
+Puis après tu prends le bus. Dans ce bus y’a que des vieux riches et leurs fils, qui rentrent du tennis, et des vrai gars du bâtiment, qui sont en train de construire les maisons de vacance des type de tout à l'heure. Ils vont dans des directions opposées. Tu te jettes par la fenêtre au détour d’un virage. Et tu marches le long de la route.
 
 Le bruit du gong provient d’un centre lointain de Yoga pour riches mécènes. Du genre que c’est gratuit de rentrer si t’as les poches pleines. Moi j’ai pas de poches dans mon bermuda. Autant te dire que j’y était pas le bienvenu. Mais juste en contrebas y’avait un complexe écolier.
 
-Je fais le tour, à la façon d’un braconnier autour d’un collet à lapin plein, j’analyse le danger, je tournoi tel le vautour. En vérité y’a pas de danger, et je mange pas de lapin. C’est tout sec.
+Je fais le tour, à la façon d’un braconnier autour d’un collet à lapin plein, j’analyse le danger, je tournoie tel le vautour. En vérité y’a pas de danger, et je mange pas de lapin. C’est tout sec.
 Je sautille sur les cailloux qui parsèment la rivière du fond de la cour.
 Je rentre par le terrain de basket, le grillage y est découpé comme dans un cartoon. Y’a encore un vieux ballon dégonflé au milieu d’un terrain en bitume qui rappe les genoux à travers le jean quand t’es goal volant.
 C’est bien la première fois qu’on m’invite sur un terrain. Mais là je me suis un peu invité tout seul, mais tout de même.
 
-//TODO Picture
+{{< figure src="entrance.jpg" title="Le grillage est facultatif, il faut traverser les rapides" >}}
 
 ## Une école
 
