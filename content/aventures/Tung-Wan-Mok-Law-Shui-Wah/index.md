@@ -94,4 +94,4 @@ https://www.dhamma.org/en/schedules/schmutta
 
 ## Les images
 
-//TODO Carousel
+{{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
