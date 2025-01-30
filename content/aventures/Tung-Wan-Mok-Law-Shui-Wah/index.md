@@ -50,7 +50,7 @@ Chaque pièce, chaque toit, chaque corridor à l'abri du vent, c’est la même 
 
 Au milieu de la jungle, alors que les plantes grignotent une table d’écolier dont les échardes se gondolent vers l’humidité. Plus de contrôle de maths, plus de JTM Jessica au blanco, plus de tâches de stylo plume. Seulement, gant de latex, bouteille de 2 litres Nivea.
 
-{{< figure src="chaise-branlette-du-champion.jpg" title="La masturbation du jardinier, ça lui évite les préliminaires" >}}
+{{< figure src="sculpture-champion.jpg" title="L'inspiration, c'est comme le jardinier sur sa chaise, ça vient d'un coup" >}}
 
 ## Les fantômes / l’histoire
 
