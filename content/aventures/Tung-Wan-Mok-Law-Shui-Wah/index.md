@@ -2,7 +2,7 @@
 title = 'Le gong sonnera deux fois'
 summary = 'TODO'
 beer = "GreenBeerIcon.png"
-beer_grade="TODO"
+beer_grade="Méditation solitaire"
 date = 2023-10-07
 type = 'aventures'
 layout = 'aventure-post'
