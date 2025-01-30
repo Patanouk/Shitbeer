@@ -1,6 +1,6 @@
 +++
 title = 'Le gong sonnera deux fois'
-summary = 'TODO'
+summary = "Méditation et plaisir solitaire, chenille au crack, des prises. Pas d'ennui pour les enfants spéciaux de Tung Wan Mok Law Shui Wah"
 beer = "GreenBeerIcon.png"
 beer_grade="Méditation solitaire"
 date = 2023-10-07
