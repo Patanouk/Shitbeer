@@ -125,3 +125,7 @@ D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est b
 ## Les images
 
 {{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
+
+## Les coordonnées
+
+22.3207384,114.2887462

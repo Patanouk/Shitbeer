@@ -95,3 +95,7 @@ https://www.dhamma.org/en/schedules/schmutta
 ## Les images
 
 {{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
+
+## Les coordonnées
+
+22.2230531,113.9057973

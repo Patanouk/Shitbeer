@@ -101,3 +101,7 @@ Les sources ça donne de l’eau fraîche.
 ## Les images
 
 {{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
+
+## Les coordonnées
+
+22.355687,114.3417085
