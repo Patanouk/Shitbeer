@@ -72,9 +72,9 @@ Le tout 10 jours.
 
 Et les gens en redemandent, comme moi des pâtes à la cantoche. Quand la grosse cantinière m’en ressert une louche des macaronis moites, je suis un peu trop excité, je trépigne, le plateau repas vibre, mon verre Duralex gigogne taille enfant, saute, rebondit sur le sol, une fois, deux fois, trois fois et enfin explose en milles shrapnels en directions des chevilles à chaussettes grimpantes. D’abord le petit Michel, se lève et applaudit, puis le reste de la 6ème Victor Hugo, ma vie qui me défile devant les yeux, l'opprobre qui s’abat sur mes épaules, mes pieds qui saignent.
 
-Quand on est Vipassana c’est à la vie a la mort.
+Quand on est Vipassana c’est à la vie à la mort.
 
-//TODO Picture
+{{< figure src="vipassana-covid.jpg" title="Le filet dans le lit, ça capture les mauvaises ondes" >}}
 
 ## La bière
 
