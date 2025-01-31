@@ -52,11 +52,16 @@ Au milieu de la jungle, alors que les plantes grignotent une table d’écolier 
 
 {{< figure src="sculpture-champion.jpg" title="L'inspiration, comme le jardinier sur sa chaise, ça vient d'un coup" >}}
 
-## Les fantômes / l’histoire
+## Les archives
 
-Avait vous deja entendu parler du fantome suceur de bite?
+Cette école, elle a une histoire ordinaire. L'histoire de tous les bleds de Hong Kong, perdus dans la jungle, avec à peine l'accès à la route.  
+L'histoire commence en 1965. Les gamins asiats, ils sont plus malins qu'en Europe. Mais c'est comme partout, il y en a toujours quelques-uns qui mangent les crayons par le mauvais bout.
 
-//TODO Write + Picture
+Ceux-là, on les parquent chez Tung Wan Mok Law Shui Wah School. C'est loin, il n'y a rien à foutre, mais on peut au moins les oublier jusqu'au weekend.  
+Puis, les profs en ont eu marre de bosser au milieu de la jungle. Pas de supermarché, pas de transport, pas de biere, pas de femme. C'est un boulot de pirate, mais il y a meme pas de rhum.  
+
+En 2019, l'école est déplacé à Tuen Mun. Les pécores de Tuen Mun râlent. Parais que les gosses prennent de la drogue et couchent entre eux, et ça va foutre le border.  
+Ça a l'air plus marrant que mon college. Moi, il se passait rien, sauf quand le gros George s'est étouffé avec les boulettes de maizena qu'il gardait dans ses poches. Lui aussi, on aurait dû le foutre chez Tung Wan.   
 
 ## Maîtres Yoga
 
