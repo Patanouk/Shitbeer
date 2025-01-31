@@ -88,6 +88,7 @@ Au final c’est un meilleur moment qu’un AVC pendant le repas de Noel.
 {{< figure src="beer-rooftop.jpg" title="La bière de profil, ça fait tout de suite moins clodo" >}}
 
 ## L'historique  
+Maman, elle me dit toujours de pas regarder l'historique de tonton touche-touche
 
 https://sense.edb.gov.hk/en/special-education/features-of-special-schools/8.html  
 https://www.dhamma.org/en/schedules/schmutta
