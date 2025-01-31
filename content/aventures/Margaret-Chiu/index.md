@@ -3,6 +3,7 @@ title = 'Sexe, Yoga et Banqueroute'
 summary = 'Casino en ligne, villa vue sur la mer, 15 clébards, position de la pince assise, 2 maris et pas moins de procès, préparez-vous à découvrir la vie palpitante de Margaret “banqueroute à domicile” Chiu.'
 beer = "BlackBeerIcon.png"
 beer_grade="Pince assise"
+coordinates="22.3207384,114.2887462"
 date = 2024-02-12
 type = 'aventures'
 layout = 'aventure-post'
@@ -125,7 +126,3 @@ D'habitude les détails ça me fait mal à la tête, mais ici l’histoire est b
 ## Les images
 
 {{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
-
-## Les coordonnées
-
-22.3207384,114.2887462

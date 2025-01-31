@@ -3,6 +3,7 @@ title = "Jésus contre les robots"
 summary = "Vieille aux doigts crochues, pirates, animatronics, Jésus gonflé a la créatine. Ici on entre dans la vision d'un patron de bar cocainé"
 beer = "SnowBeerIcon.png"
 beer_grade="Biceps de Jésus"
+coordinates="22.355687,114.3417085"
 date = 2023-03-11
 type = 'aventures'
 layout = 'aventure-post'
@@ -101,7 +102,3 @@ Les sources ça donne de l’eau fraîche.
 ## Les images
 
 {{< carousel height="600" unit="px" duration="70000000" data="/carousel" >}}
-
-## Les coordonnées
-
-22.355687,114.3417085
