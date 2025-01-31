@@ -63,6 +63,8 @@ Puis, les profs en ont eu marre de bosser au milieu de la jungle. Pas de superma
 En 2019, l'école est déplacé à Tuen Mun. Les pécores de Tuen Mun râlent. Parais que les gosses prennent de la drogue et couchent entre eux, et ça va foutre le border.  
 Ça a l'air plus marrant que mon college. Moi, il se passait rien, sauf quand le gros George s'est étouffé avec les boulettes de maizena qu'il gardait dans ses poches. Lui aussi, on aurait dû le foutre chez Tung Wan.   
 
+{{< figure src="dortoir-nazi.jpg" title="Pour les mangeurs de crayons, il faut de l'autorité allemande" >}}
+
 ## Maîtres Yoga
 
 En rentrant dans mon 9 mètres carré, j’y suis allé sur internet pour me renseigner de comment on rentre dans le gang du Yoga de dessus la colline qui surplombe le lieu de congrégation des fantômes de petits crétins, et de ce qu’on y fait.
