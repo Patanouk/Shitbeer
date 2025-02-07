@@ -1,6 +1,7 @@
 +++
 title = 'Indiana Jones et les sniffeurs de colle'
 summary = 'TODO'
+beer = "king-doigts-sales-icon.png"
 beer_grade = "TODO"
 coordinates = "22.227281048403682, 114.01141138575404"
 date = 2024-11-22
