@@ -124,14 +124,16 @@ Les chrétiens sont partis, moi, je suis revenu.
 
 ## La bière
 
-Un classique pour les doigts salés de vieilles cacahuètes.
-La bière des soldats carolingiens avant la guerre avec les Saxons. Quand les Carnyx laissaient un goût de laiton au fond de la gorge.
+Un classique pour les doigts salés de vieilles cacahuètes.  
+La bière des soldats carolingiens avant la guerre avec les Saxons. Quand les Carnyx laissaient un goût de laiton au fond de la gorge.  
 Comme une saveur solide de matin de chantier. Comme un parfum de vendeur de fruits de mer séchés. Un mélange singulier de briques, de mégots à peine achevés, de
-crustacés à métaux lourds, de lendemains qui chantent la migraine, de dernier souffle.
-Une bière habitée par les spectres.
-Une bière des possibles, du lointain et du vague.
-Une bière qu’on boit par opportunité, pas par choix.
-Un compagnon pour l’aventure.
+crustacés à métaux lourds, de lendemains qui chantent la migraine, de dernier souffle.  
+Une bière habitée par les spectres.  
+Une bière des possibles, du lointain et du vague.  
+Une bière qu’on boit par opportunité, pas par choix.  
+Un compagnon pour l’aventure.  
+
+{{< figure src="king-doigts-sales.jpg" title="Une biere de solitaire, meilleure tiédi au panneau solaire sous un soleil de jungle" >}}
 
 ## Les faits
 
