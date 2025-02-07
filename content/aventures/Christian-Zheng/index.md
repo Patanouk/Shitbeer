@@ -1,6 +1,6 @@
 +++
 title = 'Indiana Jones et les sniffeurs de colle'
-summary = 'TODO'
+summary = "Rocher nazi, esprit de la bière, négociation tendue, mamie la batelière. Pas d'échappatoire pour les prisonniers de l'ecole de la dernière chance"
 beer = "king-doigts-sales-icon.png"
 beer_grade = "Glue UHU"
 coordinates = "22.227281048403682, 114.01141138575404"
@@ -148,7 +148,6 @@ Les faits c’est dans Columbo, quand il arrête les méchants
 https://en.wikipedia.org/wiki/Christian_Zheng_Sheng_College  
 https://archive.is/hzBto  
 https://www.dimsumdaily.hk/alman-chan-former-principal-of-christian-zheng-sheng-association-breaks-silence-and-denies-misappropriation-claims/  
-https://www.scmp.com/news/hong-kong/education/article/3268529/head-scandal-plagued-christian-zheng-sheng-college-denies-embezzlement-allegations
 
 ## Les images
 
