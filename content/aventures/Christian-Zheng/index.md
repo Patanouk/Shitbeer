@@ -49,7 +49,7 @@ lu dans Picsou magazine. Tu prétends que tu es intéressé, puis tu vas manger 
 
 Elle acquiesce de la tête. Je replie l’Opinel dans ma poche.
 
-// TODO picture
+{{< figure src="vieux-parapluie-kung-fu-machette.jpg" title="Le parapluie c'est pour la bagarre, il faut qu'il ait la bonne longueur." >}}
 
 ## Le trajet
 
@@ -126,7 +126,7 @@ Alors je grimpe sur le toit, je m'assois, et je laisse mon regard vaguer au-dess
 
 Les chrétiens sont partis, moi, je suis revenu.
 
-{{< figure src="rocher-nazi-indiana-jones.jpg" title="Faut pas regarder le rocher trop longtemps, ça colle des malédictions." >}}
+{{< figure src="rocher-nazi-indiana-jones.jpg" title="Faut pas regarder le rocher trop longtemps, ça colle des malédictions malaisantes." >}}
 
 ## La bière
 
