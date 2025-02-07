@@ -145,9 +145,10 @@ Un compagnon pour l’aventure.
 
 Les faits c’est dans Columbo, quand il arrête les méchants
 
-https://en.wikipedia.org/wiki/Christian_Zheng_Sheng_College  
-https://archive.is/hzBto  
-https://www.dimsumdaily.hk/alman-chan-former-principal-of-christian-zheng-sheng-association-breaks-silence-and-denies-misappropriation-claims/  
+1. [Le pdf des statistiques des drogués](stats-drogués.pdf)
+2. [L'histoire en pas trop longue, dans la langue des Angles](https://en.wikipedia.org/wiki/Christian_Zheng_Sheng_College)
+3. [Le scoop de l'arrestation du fraudeur](https://archive.is/hzBto)
+4. [L'escroc se défend](https://www.dimsumdaily.hk/alman-chan-former-principal-of-christian-zheng-sheng-association-breaks-silence-and-denies-misappropriation-claims/)
 
 ## Les images
 
