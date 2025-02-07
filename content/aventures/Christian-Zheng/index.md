@@ -83,7 +83,7 @@ j’y ai choppé un clebs Noël dernier, mais mes chaussettes ont des trous, com
 
 Mamie est bien trop puissante, pour elle, je ne suis que bleusaille.
 
-// Photo de mamie la barboteuse
+{{< figure src="mamie-la-barboteuse.jpg" title="Mamie me barbote. Moi je me laisse faire, ce sera moins douloureux" >}}
 
 ## L’escroc en chef
 
