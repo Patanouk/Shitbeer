@@ -1,6 +1,6 @@
 +++
 title = 'Indiana Jones et les sniffeurs de colle'
-summary = "Rocher nazi, esprit de la bière, négociation tendue, mamie la batelière. Pas d'échappatoire pour les prisonniers de l'ecole de la dernière chance"
+summary = "Rocher nazi, esprit de la bière, négociation tendue, mamie la batelière. Pas d'échappatoire pour les prisonniers de l'ecole de la dernière chance."
 beer = "king-doigts-sales-icon.png"
 beer_grade = "Glue UHU"
 coordinates = "22.227281048403682, 114.01141138575404"
@@ -85,7 +85,7 @@ j’y ai choppé un clebs Noël dernier, mais mes chaussettes ont des trous, com
 
 Mamie est bien trop puissante, pour elle, je ne suis que bleusaille.
 
-{{< figure src="mamie-la-barboteuse.jpg" title="Mamie me barbote. Moi je me laisse faire, ce sera moins douloureux" >}}
+{{< figure src="mamie-la-barboteuse.jpg" title="Mamie me barbote. Moi je me laisse faire, ce sera moins douloureux." >}}
 
 ## L’escroc en chef
 
@@ -126,7 +126,7 @@ Alors je grimpe sur le toit, je m'assois, et je laisse mon regard vaguer au-dess
 
 Les chrétiens sont partis, moi, je suis revenu.
 
-//TODO picture
+{{< figure src="rocher-nazi-indiana-jones.jpg" title="Faut pas regarder le rocher trop longtemps, ça colle des malédictions." >}}
 
 ## La bière
 
@@ -139,7 +139,7 @@ Une bière des possibles, du lointain et du vague.
 Une bière qu’on boit par opportunité, pas par choix.  
 Un compagnon pour l’aventure.  
 
-{{< figure src="king-doigts-sales.jpg" title="Une biere de solitaire, meilleure tiédi au panneau solaire sous un soleil de jungle" >}}
+{{< figure src="king-doigts-sales.jpg" title="Une biere de solitaire, tiédie au panneau solaire sous un soleil de jungle" >}}
 
 ## Les faits
 
