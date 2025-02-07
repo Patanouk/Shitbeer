@@ -139,7 +139,7 @@ Une bière des possibles, du lointain et du vague.
 Une bière qu’on boit par opportunité, pas par choix.  
 Un compagnon pour l’aventure.  
 
-{{< figure src="king-doigts-sales.jpg" title="Une biere de solitaire, tiédie au panneau solaire sous un soleil de jungle" >}}
+{{< figure src="king-doigts-sales.jpg" title="Une bière de solitaire, tiédie au panneau solaire sous un soleil de jungle" >}}
 
 ## Les faits
 
