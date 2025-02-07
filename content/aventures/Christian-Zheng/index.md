@@ -100,7 +100,7 @@ Et ils paient pas assez, et ça, ça emmerde Alman Chan Siu-cheuk et ses potos, 
 retraites correctes, ils font appel au don et à la fraude. 50 millions de dollars de Hong Kong dollars pour être exact. La police ferme l’école, Alman et ses
 copains fuient le pays, et les gosses sont relâchés dans la nature. Parfois, la nuit, on les entend rire dans la forêt.
 
-//TODO Add table
+{{< figure src="le-tableau-des-drogués.png" title="Quand tu ajoutes tous les pourcentages des drogues ça fait plus que mille" >}}
 
 ## L'école des enfants de la drogue
 
