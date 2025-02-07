@@ -49,6 +49,8 @@ lu dans Picsou magazine. Tu prétends que tu es intéressé, puis tu vas manger 
 
 Elle acquiesce de la tête. Je replie l’Opinel dans ma poche.
 
+// TODO picture
+
 ## Le trajet
 
 Je m’installe dans l’un des cafés du coin, hors de la vue de la jetée des vieux impitoyables. Je commande des trucs aux serveurs, faut s'égosiller comme
@@ -98,6 +100,8 @@ Et ils paient pas assez, et ça, ça emmerde Alman Chan Siu-cheuk et ses potos, 
 retraites correctes, ils font appel au don et à la fraude. 50 millions de dollars de Hong Kong dollars pour être exact. La police ferme l’école, Alman et ses
 copains fuient le pays, et les gosses sont relâchés dans la nature. Parfois, la nuit, on les entend rire dans la forêt.
 
+//TODO Add table
+
 ## L'école des enfants de la drogue
 
 Le sampan arrive en vue d’un énorme rocher avec une croix gammée. C’est l'entrée du culte, on va faire des pieds-bouches contre des nazis, façon Indiana Jones,
@@ -121,6 +125,8 @@ me distrait les yeux.
 Alors je grimpe sur le toit, je m'assois, et je laisse mon regard vaguer au-dessus de la mare d’eau stagnante.
 
 Les chrétiens sont partis, moi, je suis revenu.
+
+//TODO picture
 
 ## La bière
 
